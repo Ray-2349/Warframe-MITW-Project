@@ -1,7 +1,7 @@
 Reach Rovis Crater
 Hunhullus: "Hayiin do-hok!"
  ()
-Operator: (laughs)
+Operator: "(laughs)"
  ()
  ()
  ()
@@ -15,7 +15,7 @@ Operator: "Let's call it even."
  ()
 Adis: "Call it - peace offer!"
  ()
-Operator: (gulping water, resurfacing)
+Operator: "(gulping water, resurfacing)"
  ()
  ()
  ()
@@ -56,7 +56,7 @@ Operator: "Again."
  ()
  ()
  ()
-Operator: (gasping)
+Operator: "(gasping)"
  ()
  ()
  ()
@@ -730,13 +730,13 @@ Operator: "How??"
  ()
 Valdur: "A rogue Executor and her lapdog. We need to get Itzam out of there now. I'm sending a shuttle. You clear a landing zone!"
  ()
-Lotus: (background) "Are they alive?"
+Lotus: "(background) Are they alive?"
  ()
-Loid: (background) "Barely. Cataleptic state. Vitals marginal."
+Loid: "(background) Barely. Cataleptic state. Vitals marginal."
  ()
-Lotus: (background) "What do they see?"
+Lotus: "(background) What do they see?"
  ()
-Loid: (background) "No way to tell without joining them, wherever they are."
+Loid: "(background) No way to tell without joining them, wherever they are."
  ()
 Valdur: "Shuttle inbound. It's taken some hits. Just make sure it sets down in one piece."
  ()
@@ -813,7 +813,7 @@ Loid: "I can't! They've gone too deep!"
  ()
 Loid: "Murmur. Breaking the perimeter seals. Flooding the labs. It's over."
  ()
-Operator: (gulping water)
+Operator: "(gulping water)"
  ()
  ()
  ()
@@ -909,7 +909,7 @@ Adis: "Tenno... LIES!"
  ()
 Adis: "Tenno... you were right. I... am sorry-"
  ()
-Operator: (coughing, hacking)
+Operator: "(coughing, hacking)"
  ()
  ()
  ()

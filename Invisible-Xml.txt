@@ -1,2 +1,0 @@
-xml: section++Newline
-section: "Indiffernec/The Man in the Wall"

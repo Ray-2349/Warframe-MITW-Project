@@ -147,7 +147,7 @@ Ordis: "Another scanner, to the right of the ship."
  ()
 Ordis: "Watch out, to the ship's left, another scanner."
  ()
-Ordis: (sigh of relief) "This is the last scanner."
+Ordis: "(sigh of relief) This is the last scanner."
  ()
 Lotus: "Nicely done. They still haven't seen you."
  ()
@@ -276,7 +276,7 @@ Worm Queen: "And this is your offering? My sister needs the orphan child, not it
  ()
 Teshin: "The child? For what purpose?"
  ()
-Worm Queen: (laughs) "To eat it, of course!"
+Worm Queen: "(laughs) To eat it, of course!"
  ()
 Elder Queen: "Hush worm! Do not question your Lords, Teshin Dax. Bring me the orphan. Bring me my Yuvan."
  ()
@@ -285,7 +285,7 @@ Operator: "ENOUGH!"
  ()
  ()
  ()
-Worm Queen: (gasp) "How rude!"
+Worm Queen: "(gasp) How rude!"
  ()
 Elder Queen: "Oh, it's not their fault, worm. Mommy and Daddy weren't around long enough to teach them any manners. (laugh) We will have to."
  ()
@@ -312,7 +312,7 @@ Elder Queen: "We gave you your precious gifts. And now, just as easily, we take 
  ()
 Ordis: "CUT THE LINK! Transference overload in 5... 4... 3..."
  ()
-Operator: (grunts)
+Operator: "(grunts)"
  ()
  ()
  ()
@@ -1016,7 +1016,7 @@ It’s time we made some changes around here.” —Ordis
 
 (Attachment: Personal Quarters Segment Blueprint)
 
-Ordis: Operator, Ordis has been thinking. Now that you are here in the flesh, we should make the Orbiter more comfortable. Ordis has identified an old storage space you could use. Stand by while I --TORCH THIS JUNK-- dispose of my old belongings. Out with the old and in with the new, right, Operator? Construct this Domestic Habitation Segment to extend life support to your new room.
+Ordis: "Operator, Ordis has been thinking. Now that you are here in the flesh, we should make the Orbiter more comfortable. Ordis has identified an old storage space you could use. Stand by while I --TORCH THIS JUNK-- dispose of my old belongings. Out with the old and in with the new, right, Operator? Construct this Domestic Habitation Segment to extend life support to your new room."
  ()
 “A Gift From The Past That Is Yet To Be
 
