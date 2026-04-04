@@ -1,5 +1,48 @@
-xml: section++Newline
-section: line
+xml: (sp; info; message)++Separator.
+Separator: newline, soundmark+.
+sp: speaker, speech, newline.
+speaker: ~[":";"#d";"#a"]+, -":".
+speech: quote, AnyChars+, quote. 
 
-chars : ~[#d;#a]+.
-Newline: #d?, #a.
+info: ~[#d;#a;'"']+.
+message: lcurly, (AnyChars++newline+), rcurly, AnyChars?.
+
+
+-quote: -'"'.
+-lcurly: -'“'.
+-rcurly: -'”'.
+
+-AnyChars: ~[#d;#a]+.
+-newline: #d?, #a.
+-soundmark: (-" ()"?, newline).
+
+
+{NOTES: 
+Operator and Drifter provide user
+options:
+
+Dialogue options are structured like this: Option markers followed by dialogue
+I held out hope
+OPERATOR|DRIFTER: "speech...sdfdsdf ."
+()+
+Speaker: "speech...sdfdsdf ."
+Speaker name may be ???
+()+
+They had lost their minds
+followed by ()* and (SceneMarker) and two newlines.
+
+
+SceneMarker (text text text)
+
+
+
+Everyone else is just dialogue.
+
+Info: not in quotes, may be in parentheses.
+Upper + lower case and space, may have colon, but NOT quotes.
+
+Message: Some "...." are written text in game, not given a speaker.
+
+
+Discard ()
+}

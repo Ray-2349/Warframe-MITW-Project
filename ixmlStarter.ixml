@@ -1,0 +1,15 @@
+xml: (info;sp)++separator, newline, soundMark*.
+
+info: "("?, ~["()";#d;#a;'"']+, ")"?.
+sp: (info, #9)?, speaker?, speech, "/", speech, tab?, controlChar*.
+speaker: ["A"-"Z"], ~[#d;#a]+, -": ".
+speech: q, ~[#d;#a]+, q.
+
+-separator: newline+, (soundMark, newline)*.
+
+-q: -'"'.
+-soundMark: -" ()".
+-newline: #d?, #a.
+-tab: -#9.
+-controlChar: -Cc.
+{We're running into a problem with control characters.}
