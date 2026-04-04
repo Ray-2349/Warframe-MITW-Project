@@ -158,7 +158,8 @@ Embarrassed	Sleepy	Shy	Surprised
  ()
 Kay: "Close..."
 
-Kay: "Close..."/"No. Try again."	Rell: "Mmm... surprised."
+Kay: "Close..."/"No. Try again."	
+Rell: "Mmm... surprised."
  ()
 Kay: "No. Try again."
 
@@ -176,7 +177,8 @@ Kay: "Go ahead, Rell."
  ()
 Nervous	Sleepy	Excited	Grumpy
 (advances the dialogue)	Rell: "Mmm... sleepy."
-Kay: No. Try again.	Kay: "Close..."/"No. Try again."	Kay: "Close..."/"No. Try again."
+Kay: No. Try again.	Kay: "Close..."/"No. Try again."	
+Kay: "Close..."/"No. Try again."
 Rell: "We're in a ship."
  ()
 Kay: "Yes?"
@@ -186,7 +188,7 @@ Rell: "Impossible speed, beyond the Brankle Gap constant."
 Kay: "Uh, I think so... you're better with that stuff. But it's amazing isn't it?-"
  ()
 Confused	Proud	Hungry	Scared
-(advances the dialogue)	Kay: "Close..."/"No. Try again."	Kay: "Close..."/"No. Try again."	Kay: "Close..."/"No. Try again."
+(advances the dialogue)Kay: "Close..."/"No. Try again."	Kay: "Close..."/"No. Try again."	Kay: "Close..."/"No. Try again."
 Rell: "So why don't they fix me?"
  ()
 Kay: "Rell. You know why."

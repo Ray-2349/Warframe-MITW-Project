@@ -97,7 +97,7 @@ Loid (Original): "The Daughter of Hunhow seems content to guide your missions fr
  ()
 Loid (Original): "The Cavia are wary of our visitor. I have reassured them she is to be trusted. Not that they have to listen to anything I have to say, mind."
  ()
-Loid (Original): "Our "guest" is still with us. I would make her more comfortable if I had the slightest idea how."
+Loid (Original): "Our 'guest' is still with us. I would make her more comfortable if I had the slightest idea how."
  ()
 Loid (Original): "She remains as she was, Tenno. Attentive. Watching."
  ()
