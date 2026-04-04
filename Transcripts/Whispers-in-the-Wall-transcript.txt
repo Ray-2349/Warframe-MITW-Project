@@ -1,4 +1,4 @@
-The Man in the Wall: (Voidtongue)
+The Man in the Wall: "(Voidtongue)"
 Inbox Message
 “URGENT
 
@@ -37,7 +37,7 @@ The Murmur
 Find the Sleeper
 Loid: "Necramechs. Poor, abandoned things. Still faithfully following Master Entrati's last command, to defend. Show mercy, Tenno. End them."
  ()
-The Man in the Wall: (Voidtongue)
+The Man in the Wall: "(Voidtongue)"
 Loid: "Master Entrati called it the Voidtongue. He feared it was meaningless... and feared more that it was not."
  ()
 Take Albrecht Entrati's Grimoire
@@ -49,7 +49,7 @@ Loid: "The grimoire is very... active. It is... reading ... you!"
 Loid: "I confess it galls me slightly to see a compendium of knowledge used as a weapon, but needs must. We need be in no doubt of your skill, at any rate."
  ()
 Find the Sleeper
-The Man in the Wall: (Voidtongue)
+The Man in the Wall: "(Voidtongue)"
  ()
 Loid: "A monstrous danger, these labs. Better off sealed. We can only hope The Sleeper has been untouched by this vast horror. This great Indifference."
  ()
@@ -61,7 +61,7 @@ Loid: "If these fragments were to unite... Destroy them swiftly, Tenno!"
 Loid: "Right. Onward."
  ()
 Find the Sleeper
-Automated Announcer: (Subway chimes) "The next train is arriving. Doors are on the right."
+Automated Announcer: "(Subway chimes) The next train is arriving. Doors are on the right."
  ()
 Loid: "A trap? Master Entrati jealously protected his most adored possessions - be they objects... or people. Come. The Sleeper awaits."
  ()
@@ -106,12 +106,12 @@ Loid (Original): "This isn't right. The Transference stream... it's being divert
 ????
 Automated Announcer: "Please note: payment processing systems are down. All ticketing stations are cash only."
  ()
-Aoi: (breathing heavily) "Arthur. Find a terminal. Check-in. I need to know you made it."
+Aoi: "(breathing heavily) Arthur. Find a terminal. Check-in. I need to know you made it."
  ()
 Find a Terminal
 Arthur: "Aoi? Feels like there's... someone in my head..."
  ()
-Aoi: (breathing heavily) "Nearly done with this bitch of a year. I wish we could just start over. Find that Dr. Entrati bastard on day one. Then I wouldn't be alone on New Year's Eve."
+Aoi: "(breathing heavily) Nearly done with this bitch of a year. I wish we could just start over. Find that Dr. Entrati bastard on day one. Then I wouldn't be alone on New Year's Eve."
  ()
 Aoi: "They've found me. Keep going, Arthur. Find Dr Entrati. Follow him into hell if you have to! *uses Polarize* (Screaming)"
  ()
@@ -120,7 +120,7 @@ TV Announcer: "It's comin' up to midnight, folks! Is YOUR PC ready for the new m
  ()
 Albrecht Entrati?: "You. Are. Late."
  ()
-The Man in the Wall: (Voidtongue)
+The Man in the Wall: "(Voidtongue)"
 Back to the Future
 Loid (Original): "So... Albrecht made it to 1999 in one piece. But that thing is still on his heels. Albrecht rarely smiled, after his return from the Void. And never like that... I smashed the casket for NOTHING! IT FOLLOWED HIM ANYWAY!"
  ()
@@ -194,12 +194,12 @@ Access the Terminal
 Loid (Original): "Keyglyphs are a heavy burden for living beings to bear. Each type will impede you in its own way."
  ()
 Locate the Netracell
-The Man in the Wall: (laughter)
+The Man in the Wall: "(laughter)"
  ()
  ()
  ()
  ()
-The Man in the Wall: (laughs) "Look at these things. Lying around. ABANDONED. Like you, Loid."
+The Man in the Wall: "(laughs) Look at these things. Lying around. ABANDONED. Like you, Loid."
  ()
  ()
  ()
