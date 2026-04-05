@@ -57,7 +57,7 @@ Death
  ()
  ()
  ()
-Meet Palladino at Iron Wake: Earth, Iron Wake
+Meet Palladino at Iron Wake; Earth, Iron Wake
 On Orbiter
 Ordis: "Steel Meridian has received Palladino. You've been granted access to enter their base, Operator."
  ()
@@ -79,7 +79,7 @@ Palladino: "(sighs) I cannot reach holy Rell from here. I will need his sacred f
  ()
 Lotus: "Veil rituals will incite fanaticism, but don't be drawn in. I'm not convinced this 'Rell' even exists. I fear we'll have to play Palladino's game to find out. Ordis has been tracking Red Veil disturbances... that's the best place to start."
  ()
-Find Rell's relic: Pluto, Hydra
+Find Rell's relic; Pluto, Hydra
 On Orbiter
 Ordis: "Operator! A Red Veil Seance! How... delightful? I have marked a possible Red Veil disturbance but... perhaps you would prefer to- brew some leaves and... Sorry. Navigation is bleeding, Operator."
  ()
@@ -118,7 +118,7 @@ Palladino: "Rell! What evil is this!? Sacred child, forgive me. I should have kn
  ()
 Palladino: "Rell has become the very thing he warned us of. You cannot kill this, Tenno. Run! You can only run!"
  ()
-Return to Iron Wake: Earth, Iron Wake
+Return to Iron Wake; Earth, Iron Wake
 On Orbiter
 Ordis: "Operator, what was that... thing? Lotus, can you explain this? Lotus?!"
  ()
@@ -177,7 +177,7 @@ Kay: "Go ahead, Rell."
  ()
 Nervous	Sleepy	Excited	Grumpy
 (advances the dialogue)	Rell: "Mmm... sleepy."
-Kay: No. Try again.	Kay: "Close..."/"No. Try again."	
+Kay: "No. Try again."	Kay: "Close..."/"No. Try again."	
 Kay: "Close..."/"No. Try again."
 Rell: "We're in a ship."
  ()
@@ -213,7 +213,7 @@ Palladino: "This memory - his humanity still remains, buried in these emotions h
  ()
 Lotus: "Tenno - I have a theory. Return to your Orbiter and I'll explain."
  ()
-Capture Rell's manifestations: Derelict
+Capture Rell's manifestations; Derelict
 On Orbiter
 Lotus: "These disturbances, they are Transference energy, split apart from a single mind. If we could capture them, send them back..."
  ()
@@ -261,7 +261,7 @@ Rell: "Bored: Waiting too much. There is nothing fun to look at."
  ()
 Rell: "Embarrassed: Talking and everyone looks at you."
  ()
-Capture Rell's manifestations: Uranus, Stefano
+Capture Rell's manifestations; Uranus, Stefano
 (On mission entry)
 
 Palladino: "I don't know if you can make Rell whole again, but whatever you're doing, this disturbance is growing stronger, resisting you. Don't let it stop you. Bring Rell home, to the temple."
@@ -291,7 +291,7 @@ Rell: "Happy: Momma has a stretchy smile."
  ()
 Rell: "Sad: Why did the babies eat the mother?"
  ()
-Capture Rell's manifestations: Earth, Everest
+Capture Rell's manifestations; Earth, Everest
 On Orbiter
 Ordis: "Operator, there is no evidence of any... thing... in the Void. By my calculations, Rell has lost control of his Transference. If we can gather these emotions I hope he will be himself again."
  ()
@@ -324,7 +324,7 @@ Rell: "Scared: You look around and Momma's not there."
  ()
 Rell: "Tired: You run and run until you can't[sic, voiced "can't run"] anymore."
  ()
-Enter the Temple: Void, Tiwaz
+Enter the Temple; Void, Tiwaz
 On Orbiter
 Lotus: "If Rell's been caught in a Transference loop for this long... the psychological effects could have been catastrophic. This 'man in the wall', these delusions, symptoms of the Void exposure all Tenno experienced. I hope that Palladino can find peace for Rell so this never happens again."
  ()

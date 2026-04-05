@@ -745,7 +745,7 @@ Ordis: "Are you serious?! It didn't occur to you that you might want to mention 
 Little Duck: "It did. And I didn't. Needed you focused."
  ()
 Past the gate
-Lotus: "But he could not be deceived for long. He saw through my deception, and my judgment was swift and true. He cradled you in his arms, saying: "Child--""
+Lotus: "But he could not be deceived for long. He saw through my deception, and my judgment was swift and true. He cradled you in his arms, saying: 'Child--'"
  ()
 Ballas: "--Child, my child, forgive me. Wake from this horrid dream of hers. The world outside is waiting for you. These horrors of Zariman... are lies only to hold you ill. I... love you."
  ()
@@ -910,7 +910,7 @@ Euleria Entrati: "Temporal Axioms - Unit 6. The Prison of Linear Time."
 Presentism
 Euleria Entrati: "Presentism, the obsolete theory of linear time, posits that now is all that is real."
  ()
-Event: Solar Genesis
+Event - Solar Genesis
 Euleria Entrati: "In this frame, the Present Absolute, the now, moves constantly toward the future."
  ()
 Jenva: "When are we ever gonna use this stuff?"
@@ -921,7 +921,7 @@ Euleria Entrati: "And leaves the static past behind, discarded, consigned to unr
 Presumed Inevitability of Decay
 Euleria Entrati: "The future remains to be discovered, but is less real than even the past."
  ()
-Event: Solar Extinction
+Event - Solar Extinction
 Euleria Entrati: "We see the shadows on the cave wall but not the hands that cast them."
  ()
 Eternalism Theory of Void Travel / Polytemporal Nexus [See Chapter 7]
@@ -929,10 +929,10 @@ Euleria Entrati: "The Void offers humanity the truer telling of Eternalism. That
  ()
 Mathon: "My head hurts..."
  ()
-Meta-Event: Solar Totality
+Meta-Event - Solar Totality
 Euleria Entrati: "It is relative... and we can change the frame."
  ()
-Further Reading: 'Beyond the Wall of Lohk'. A. Entrati
+Further Reading - 'Beyond the Wall of Lohk'. A. Entrati
 'The Palimpsest of Spacetime'. A. and E. Entrati
 Euleria Entrati: "The tyranny of the Present Absolute is overthrown. Tomorrow is now its equal."
  ()
@@ -982,9 +982,9 @@ Euleria Entrati: "Incorrect. We are not concerned here with absolute truths. Onl
  ()
 Euleria Entrati: "Question Three. Lintana's parents have been captured, but she has a choice. The button that opens her mother's cell door will flood her father's cell with deadly radiation, and vise versa. She presses one of the buttons. Under Eternalism, which of the following statements is universally true?"
  ()
-Euleria Entrati: "Only one of her parents will survive.
+Euleria Entrati: "Only one of her parents will survive."
  ()
-Euleria Entrati: "Only one of her parents will die.
+Euleria Entrati: "Only one of her parents will die."
  ()
 Euleria Entrati: "Her parents will survive. Her parents will die."
  ()
@@ -1589,7 +1589,7 @@ Ordis: "Oh no. Konzu's been afflicted with one of those wretched Narmer Veils! -
 Saving Konzu
 Konzu: "Ai yo. Has it been so long?"
  ()
-Player:
+Player
 Operator: "Konzu, run and hide!"
  ()
  ()
@@ -1623,7 +1623,7 @@ Ballas: "My people. Today we begin a great ascension. For as long as I have live
 Landing on Unum
 Ordis: "The locals believe this tower to be inhabited by a great spirit they call 'The Unum'."
  ()
-Player:
+Player
 Operator: "And that she sees time all at once. I think it's just a metaphor."
  ()
  ()
@@ -1637,7 +1637,7 @@ Drifter: "Haunted, huh? Nice trick to ward off would-be thieves..."
 Konzu: "Surah... do not harm any whom you could save, kruna metta."
  ()
 Reaching the atrium
-Player:
+Player
 Operator: "Ordis, you picking up anything strange?"
  ()
  ()
@@ -1664,7 +1664,7 @@ Unum: "Dreamer... let them defile, no more."
  ()
 Ordis: "Operator? I may be detecting something unusual... should I focus scans?"
  ()
-Player:
+Player
 Operator: "Won't be necessary Ordis."
  ()
  ()
@@ -1680,7 +1680,7 @@ Ordis: "Murex trajectory increasing on vector heading zero by zero by zero. Righ
  ()
 Lotus: "This is not your fight, Tenno. Ballas is mine."
  ()
-Player:
+Player
 Operator: "You're not ready! He has manipulated you for so long. He'll just own you like he owns every other Narmer."
  ()
  ()
@@ -1701,7 +1701,7 @@ Lotus: "But not the one ship Ballas now controls. The great Sentient weapon of t
 Ordis: "Yes, we know it. The ship that feeds on debris and derelicts to rebuild itself."
  ()
 Approaching second locked door
-Player:
+Player
 Operator: "Please. You're not thinking straight. You need more time to heal..."
  ()
  ()
@@ -1715,7 +1715,7 @@ Drifter: "Look. You're not yourself. Not yet. We can find the last Archon togeth
 Lotus: "There is no time, no mercy for Narmer. Praghasa must be stopped before Ballas can fulfill her original purpose. Praghasa cannot be allowed to feed."
  ()
 Encountering Lotus
-Player:
+Player
 Operator: "What do you mean? Feed on what?"
  ()
  ()
@@ -1744,7 +1744,7 @@ Approach Praghasa
 Railjack
 Cephalon Cy: "Gravimetrics are chaotic. At current rate, this Railjack will burn on approach. Weird: that thing appears to be eating the Sun."
  ()
-Player:
+Player
 Operator: "We have got to stop it! What if... what if we approach the wrecked ships as cover?"
  ()
  ()
@@ -1785,7 +1785,7 @@ If not moving under cover
 Cephalon Cy: "This wreckage is burning up. We will not be shielded for much longer. Keep moving."
  ()
 On Praghasa
-Player:
+Player
 Operator: "Alright Cy, get clear after launch."
  ()
  ()
@@ -1802,7 +1802,7 @@ Erra: "Follow me."
  ()
 Erra: "When the Lotus reaches him, he will make her his puppet. Together, they will annihilate the sun. And so. My sister must..."
  ()
-Player:
+Player
 Operator: "I know! Maybe if she was stronger we wouldn't have to!"
  ()
  ()
@@ -1814,7 +1814,7 @@ Drifter: "Listen. I never finished rebuilding her. It might have made the differ
  ()
  ()
 Necramech at low health
-Player:
+Player
 Operator: "My mech's damaged! Can we take down the Orphix field?"
  ()
  ()
@@ -1827,7 +1827,7 @@ Drifter: "This mech won't last. I need to take out this Orphix thing."
  ()
 Erra: "Arrrrrrgggg! The final Archon... it... will be waiting for you. Maybe its power will... make her whole again... give her enough strength to resist."
  ()
-Player:
+Player
 Operator: "Understood."
  ()
  ()
@@ -1838,7 +1838,7 @@ Drifter: "Understood."
  ()
  ()
  ()
-Player:
+Player
 Operator: "Thank you."
  ()
  ()
@@ -1866,7 +1866,7 @@ Lotus: "I... said... to... stay... out... of... this..."
  ()
 Ballas: "But you can't, can you? Still desperate to save her from herself. You never truly knew her, did you? What she most needs?"
  ()
-Player:
+Player
 Operator: "No!"
  ()
  ()
@@ -1879,7 +1879,7 @@ Drifter: "No!"
  ()
 Ballas: "Why do you make me do these things?"
  ()
-Ballas: "Say "I love you, my master.""
+Ballas: "Say 'I love you, my master.'"
  ()
 Lotus: "I... love you. My master."
  ()
@@ -1887,32 +1887,38 @@ Ballas: "Now... kill your child. For me."
  ()
 During Battle
 When knocked out of Warframe
-Operator: [Grunt of pain, unsubtitled]
+Operator:
+[Grunt of pain, unsubtitled]
  ()
  ()
  ()
  ()
-Drifter: [Grunt of pain, unsubtitled]
+Drifter:
+[Grunt of pain, unsubtitled]
  ()
  ()
  ()
  ()
-Operator: [Alternate grunt of pain/effort, unsubtitled]
+Operator:
+[Alternate grunt of pain/effort, unsubtitled]
  ()
  ()
  ()
  ()
-Drifter: [Alternate grunt of pain/effort, unsubtitled]
+Drifter:
+[Alternate grunt of pain/effort, unsubtitled]
  ()
  ()
  ()
  ()
-Operator: [Third alternate grunt of effort, unsubtitled]
+Operator:
+[Third alternate grunt of effort, unsubtitled]
  ()
  ()
  ()
  ()
-Drifter: [Third alternate grunt of effort, unsubtitled]
+Drifter:
+[Third alternate grunt of effort, unsubtitled]
  ()
  ()
  ()
@@ -1920,7 +1926,7 @@ Drifter: [Third alternate grunt of effort, unsubtitled]
 First mirror broken
 Ballas: "There's a good girl. Repair the hurt you have dealt us. Have dealt me."
  ()
-Player:
+Player
 Operator: "No. No!"
  ()
  ()
@@ -1935,7 +1941,7 @@ Second mirror broken
 Ballas: "You HAD to have a 'child' - and with an open heart I gave you... this. And my reward? Being left to watch as all your love- MY. LOVE. - poured into the bottomless well of this... abominable child."
  ()
 Third mirror broken
-Player:
+Player
 Operator: "Remember! Remember what he did to you!"
  ()
  ()
@@ -1949,7 +1955,7 @@ Drifter: "Remember! Remember what he did to you!"
 Lotus: "I remember... my old self... dissolving... beneath your fingers. Shaping me. Directing me. Lua."
  ()
 Fourth mirror broken
-Ballas: "Yes, let's discuss "what I did." I who have endured your torture of me. Your lies. Your betrayals. Without. Complaint. All for you. And this is my reward."
+Ballas: "Yes, let's discuss 'what I did.' I who have endured your torture of me. Your lies. Your betrayals. Without. Complaint. All for you. And this is my reward."
  ()
 Lotus: "You... you... You lie. You are small."
  ()
@@ -1980,7 +1986,7 @@ Ninth mirror broken
 Ballas: "She has this coming. Do not interfere again."
  ()
 2nd health bar depleted
-Ballas: "I cast you from my sight. 'Lotus.'"'
+Ballas: "I cast you from my sight. 'Lotus.'"
  ()
 Lotus: "I. Said. STOP!"
  ()
@@ -2003,7 +2009,7 @@ Ballas: "'Run'? Where should they run to? You've only destroyed everything!"
  ()
 Ballas: "Alone at last."
  ()
-Player:
+Player
 Operator: "No."
  ()
  ()
@@ -2087,9 +2093,9 @@ And each one, we will face together.
 
 For now, rest. Dream of who we were, and of who we have become.
 
-Nothing I could give could repay what you have done for me. But these items may assist you on your onward journey.
+Nothing I could give could repay what you have done for me. But these items may assist you on your onward journey.”
 
-[Natah/Lotus/Margulis] ”
+[Natah/Lotus/Margulis] 
 
  ()
 “The Lotus is reborn!

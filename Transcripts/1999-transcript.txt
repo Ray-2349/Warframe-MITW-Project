@@ -3,8 +3,8 @@ TV Announcer: "It's December 31st, 1999. Let's SAY GOODBYE to the OLD YEAR with 
 HÖLLVANIA CENTRAL MALL
 REACTOR INCIDENT IN 23 HRS 59 MINS
 ARTHUR NIGHTINGALE
-ROLE: SQUAD LEADER
-BATCH: 'EXCALIBUR'
+ROLE - SQUAD LEADER
+BATCH - 'EXCALIBUR'
 Arthur: "Not again!"
  ()
 UNDR MIRAS AVE
@@ -17,8 +17,8 @@ Amir: "I'm on break, Arthur. Don't mess with my gametime."
 Arthur: "Need my Tommy keys, Amir. I'm not letting another lead on Entrati go to waste."
  ()
 AMIR BECKETT
-ROLE: TECHNICIAN
-BATCH: 'VOLT'
+ROLE - TECHNICIAN
+BATCH - 'VOLT'
 Amir: "(Grunts) That, that was cheating."
  ()
 Arthur: "My keys better not be in that mess."
@@ -26,15 +26,15 @@ Arthur: "My keys better not be in that mess."
 Aoi: "Learn to hotwire, geez!"
  ()
 AOI MOROHOSHI
-ROLE: LOGISTICS
-BATCH: 'MAG'
+ROLE - LOGISTICS
+BATCH - 'MAG'
 Arthur: "Did you take my damn keys?"
  ()
 Quincy: "Don't distract me, boyscout."
  ()
 QUINCY ISAACS
-ROLE: MARKSMAN
-BATCH: 'CYTE-09'
+ROLE - MARKSMAN
+BATCH - 'CYTE-09'
 Arthur: "No disrespect, Quincy. Got places to be, is all."
  ()
 Arthur: "Someone is taking my stuff."
@@ -44,13 +44,13 @@ Arthur: "How's she doing?"
 Lettie: "If she wasn't your blood, she'd be on her own out there."
  ()
 LETICIA GARCIA
-ROLE: MEDIC
-BATCH: 'TRINITY'
+ROLE - MEDIC
+BATCH - 'TRINITY'
 Arthur: "Got a lead on Entrati. Sewers. Arse deep in Techrot, most likely. I'm going after him, for all our sakes. Lettie, look, if you've taken my keys again..."
  ()
 ELEANOR NIGHTINGGALE
-ROLE: PSYCH-OPS
-BATCH: 'NYX'
+ROLE - PSYCH-OPS
+BATCH - 'NYX'
 Quincy: "Hold up, hero boy. You're going after Doctor E all by yourself?"
  ()
 Aoi: "Or maybe you're gonna bail on us, Arthur? Forget it."
@@ -64,8 +64,8 @@ Arthur: "No one's bailing. I got us into this, and if it kills me, I'll get us- 
 Major Neci Rusalka: "The Doktor's dashing patient-zero in the flesh?"
  ()
 MAJOR NECI RUSALKA
-ROLE: SCALDRA COMMANDER
-ARMAMENT: EFERVON HARNESS
+ROLE - SCALDRA COMMANDER
+ARMAMENT - EFERVON HARNESS
 Major Neci Rusalka: "Shame. But my Scaldra have their orders."
  ()
 Major Neci Rusalka: "Kill. On. Sight."
@@ -832,11 +832,11 @@ Albrecht Entrati: "...with others. Carry this power with mercy, Tenno."
  ()
 The Hex: "(Laughter)"
  ()
-Arthur:: "What a day."
+Arthur: "What a day."
  ()
 Amir: "Well that burned a few calories!"
  ()
-Quincy: "Man ain't nothin' without his mains. Respec'.
+Quincy: "Man ain't nothin' without his mains. Respec'."
  ()
 Aoi: "Right here by your side. Now and always."
  ()
