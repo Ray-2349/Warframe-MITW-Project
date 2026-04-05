@@ -1,15 +1,22 @@
-xml: (info;sp)++separator, newline, soundMark*.
+xml: (info;infoMarked;sp;spLine;infoLine;soundEffect)++separator, separator.
+infoLine: (info;infoMarked)++tab; (info;infoMarked)++space.
+info: "Note: "?, infoChar+.
+infoMarked: -" "?,-"(", infoChar+, -")", -" "?.
+soundEffect: q, "(", ["a"-"z"]+, ")", q.
 
-info: "("?, ~["()";#d;#a;'"']+, ")"?.
-sp: (info, #9)?, speaker?, speech, "/", speech, tab?, controlChar*.
-speaker: ["A"-"Z"], ~[#d;#a]+, -": ".
-speech: q, ~[#d;#a]+, q.
+sic: -" "?, -"[sic", (", ", "voiced ", '"', [" ";"A"-"Z"; "a"-"z";"'"]+, '"')?, -"]", -" "?.
+spLine: sp++tab.
+sp: (infoMarked, #9?)*, speaker?, infoMarked?, speech, (("/";" - "; " | "; infoMarked), speech, tab?, controlChar*)*.
+speaker: ("???"; (["A"-"Z"], ["A"-"Z"; "a"-"z"; " ";"/-"]+)), (" ", infoMarked)?, -": ".
+speech: q, (speechText;sic;infoMarked)+, q.
 
--separator: newline+, (soundMark, newline)*.
-
+-separator: (newline, soundMark?)+.
 -q: -'"'.
 -soundMark: -" ()".
 -newline: #d?, #a.
 -tab: -#9.
--controlChar: -Cc.
-{We're running into a problem with control characters.}
+-controlChar: -#Cc.
+-infoChar: ["0"-"9";"A"-"Z"; "a"-"z";" "; "'";",.!?-;"].
+-speechChar: ["A"-"Z"; "a"-"z"; "0"-"9"; "'";",.!?-—---:"].
+-space: " ".
+-speechText: speechChar+; speechChar++space.

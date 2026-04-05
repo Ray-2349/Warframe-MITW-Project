@@ -184,7 +184,7 @@ Archimedean Itzam: "The treaty is not as finished as we would wish. The conditio
 Get to the Airlock
 Apex Stentor: "Anarch strike is underway! Tauron students, to deployment!"
  ()
-Operator: "Let's go, "truth-bloom!""
+Operator: "Let's go, 'truth-bloom!'"
  ()
  ()
  ()
@@ -670,7 +670,7 @@ Archimedean Itzam: "Orokin gratitude is like summer lightning: its light is flee
  ()
 Ballas: "Wise Itzam. First of the Sentient Archimedeans. Speak."
  ()
-Archimedean Itzam: "It's Galastra, Executor. Her Anarchs now occupy every one of the known world-seeders. Many of our bloom nurseries lie in ashes! Tokh-Amn itself is threatened! We believe she may be receiving assistance. Executor Nitokh is helping.
+Archimedean Itzam: "It's Galastra, Executor. Her Anarchs now occupy every one of the known world-seeders. Many of our bloom nurseries lie in ashes! Tokh-Amn itself is threatened! We believe she may be receiving assistance. Executor Nitokh is helping."
  ()
 Ballas: "The moon Perita is soon to be sovereign Sentient territory, per article 92. 'All Orokin forces to withdraw.' Remain and we violate the treaty, depart and we abandon a friend in need! What, then, would you have me do about Galastra?"
  ()
@@ -921,7 +921,7 @@ Operator: "Shh. It's okay. It's okay. We're together."
  ()
 Adis: "Tenno. I heal. I try!"
  ()
-Adis: "(singing) "Cast and cry, cast and cry" | "Raise the million pylons high" | "All our kin are bound to fly" | "For that far shore forlorn"
+Adis: (singing) "Cast and cry, cast and cry" | "Raise the million pylons high" | "All our kin are bound to fly" | "For that far shore forlorn"
  ()
 Destroy Orokin Cleanup Squad
 Kill Squad Leader: "Target ahead. Taking them out."
@@ -994,7 +994,7 @@ Operator: "What did you see?"
  ()
  ()
  ()
-Daklo: "The Grineer were prepared. They knew. The moment Ballas announced the treaty was dead, they opened fire!
+Daklo: "The Grineer were prepared. They knew. The moment Ballas announced the treaty was dead, they opened fire!"
  ()
 I'm letting you go.
 Operator: "Get out."
