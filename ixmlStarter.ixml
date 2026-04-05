@@ -1,4 +1,4 @@
-xml: (info;infoMarked;sp;spLine;infoLine;soundEffect)++separator, separator.
+xml: (info;infoMarked;sp;spLine;infoLine;soundEffect;optionBlock;message)++separator, separator.
 infoLine: (info;infoMarked)++tab; (info;infoMarked)++space.
 info: "Note: "?, infoChar+.
 infoMarked: -" "?,-"(", infoChar+, -")", -" "?.
@@ -6,17 +6,29 @@ soundEffect: q, "(", ["a"-"z"]+, ")", q.
 
 sic: -" "?, -"[sic", (", ", "voiced ", '"', [" ";"A"-"Z"; "a"-"z";"'"]+, '"')?, -"]", -" "?.
 spLine: sp++tab.
-sp: (infoMarked, #9?)*, speaker?, infoMarked?, speech, (("/";" - "; " | "; infoMarked), speech, tab?, controlChar*)*.
-speaker: ("???"; (["A"-"Z"], ["A"-"Z"; "a"-"z"; " ";"/-"]+)), (" ", infoMarked)?, -": ".
-speech: q, (speechText;sic;infoMarked)+, q.
+sp: (infoMarked, #9?)*, speaker, infoMarked?, speech, (("/";" - "; " | "; space; infoMarked), speech, tab?, controlChar*)*.
+speaker: ("???"; (["A"-"Z"], ["A"-"Z"; "a"-"z"; "?";"0"-"9";" ";"/-"]+)), (" ", infoMarked)?, -": ".
+speech: q+, (speechText;sic;infoMarked)*, q+.
 
--separator: (newline, soundMark?)+.
+optionBlock: optionSpeaker, (optionGrp, separator)+.
+optionSpeaker: ("Operator:"; "Drifter:"), eraseNewline.
+option: infoChar+, eraseNewline.
+optionGrp: option, speech.
+
+message: '“', messageBody+, mlb?, '”'.
+
+mlb: eraseNewline, eraseNewline, (soundMark, eraseNewline)?.
+-separator: (eraseNewline, soundMark?)+.
 -q: -'"'.
 -soundMark: -" ()".
 -newline: #d?, #a.
+-eraseNewline: -#d?, -#a.
 -tab: -#9.
 -controlChar: -#Cc.
--infoChar: ["0"-"9";"A"-"Z"; "a"-"z";" "; "'";",.!?-;"].
--speechChar: ["A"-"Z"; "a"-"z"; "0"-"9"; "'";",.!?-—---:"].
+-infoChar: ["0"-"9";"A"-"Z"; "a"-"z";" "; "'";",.!/?-;’"].
+-speechChar: ["A"-"Z"; "a"-"z";"*"; "0"-"9"; "'";",.!?-—---:"].
+-messageChar: ["A"-"Z"; " "; "a"-"z"; "ö"; "0"-"9"; "'";'"';",.!?-—---:"].
 -space: " ".
 -speechText: speechChar+; speechChar++space.
+-messageText: messageChar+.
+messageBody: messageText; messageText++mlb.

@@ -76,7 +76,7 @@ Loid (Original): "Resume your duties, construct."
  ()
 Loid: ""Resume your duties, construct.""
  ()
-Loid (Original): "Please, follow me, uh... "
+Loid (Original): "Please, follow me, uh..."
  ()
 Loid: "This is a Tenno. An orphan of the Void, continuing the struggle our Master abandoned."
  ()
@@ -182,7 +182,7 @@ The Man in the Wall: "You're right, Fish. Loid could never figure things out. We
 Loid (Original): "If the Cavia have been babbling our secrets to the Murmur, I shall immolate the lot of them, promise or no promise."
  ()
 Speak with Loid
-Loid (Original): "It seems Albrecht said more than we heard. Despite the signal becoming corrupted, his words to you are preserved in the Transference buffer. We should extract them... but for that the Pom-2 requires a replacement "board", and those are all hidden away in the Netracells. You do understand that accessing a Netracell without a Keyglyph is completely impossible?"
+Loid (Original): "It seems Albrecht said more than we heard. Despite the signal becoming corrupted, his words to you are preserved in the Transference buffer. We should extract them... but for that the Pom-2 requires a replacement 'board', and those are all hidden away in the Netracells. You do understand that accessing a Netracell without a Keyglyph is completely impossible?"
  ()
 Tagfer: "Mara lohk! Mara lohk!"
  ()
@@ -219,7 +219,7 @@ Loid (Original): "Necramites! The lab's automated systems are trying to lock dow
  ()
 Loid (Original): "Cold stone. Sardonic aloofness. I was a fool not to see the resemblance before."
  ()
-Find the Pom-2 "Board"
+Find the Pom-2 'Board'
 The Man in the Wall: "You shoulda left well enough alone, kiddo! It'll NEVER get BETTER if you KEEP ON. PICKING. AT. IT!"
  ()
  ()
@@ -283,7 +283,7 @@ Standing idle
 ???: "HELLO?! WAKE UP, TENNO! YOU NEED TO FIND ME!"
  ()
 Speaking to Fibonacci
-Fibonacci: "Here! In the jar! "Wha? The fish with the big brain?" YES THE FISH WITH THE BIG BRAIN! Can we PLEASE, finally, get this INTERMINABLE process over with?"
+Fibonacci: "Here! In the jar!" "Wha? The fish with the big brain?" "YES THE FISH WITH THE BIG BRAIN! Can we PLEASE, finally, get this INTERMINABLE process over with?"
  ()
 Loid (Original): "Albrecht used you to give the Cavia a voice, just as he used me to keep them alive. Such a resourceful man."
  ()
