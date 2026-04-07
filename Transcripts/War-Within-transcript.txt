@@ -647,7 +647,7 @@ Operator: "I hated it."
  ()
  ()
  ()
-???: :"I hated it."
+???: "I hated it."
  ()
  ()
  ()
@@ -658,7 +658,7 @@ Operator: "I controlled it."
  ()
  ()
  ()
-???: :"I controlled it."
+???: "I controlled it."
  ()
  ()
  ()
@@ -669,7 +669,7 @@ Operator: "I embraced it."
  ()
  ()
  ()
-???: :"I embraced it."
+???: "I embraced it."
  ()
  ()
  ()
@@ -797,7 +797,7 @@ Elder Queen: "Guards! Kill this Tenno!"
  ()
 (Destroying braids 2nd time)
 
-Elder Queen: "Long enough have I lived in this ugly Grineer bodies. I need new flesh... I deserve new flesh! Yours! Guards! Kill this Warframe and bring me my "new skin!
+Elder Queen: "Long enough have I lived in this ugly Grineer bodies. I need new flesh... I deserve new flesh! Yours! Guards! Kill this Warframe and bring me my new skin!"
  ()
  ()
 (Destroying braids 3rd and last time)
@@ -1048,8 +1048,7 @@ During a routine electromagnetic wave sweep, a most distressing message was inte
 
 Do be careful.
 
-Your loyal Cephalon,
-Ordis”
+Your loyal Cephalon, Ordis”
 
 “Lua Stirs
 
