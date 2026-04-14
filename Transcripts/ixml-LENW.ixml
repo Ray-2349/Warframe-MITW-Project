@@ -1,4 +1,4 @@
-xml: (info;infoMarked;sp;spLine;infoLine;soundEffect;optionBlock;message)++separator, separator?.
+xml: (info;infoMarked;sp;spLine;infoLine;soundEffect;message)++separator, separator?.
 infoLine: (info;infoMarked)++tab; (info;infoMarked)++space.
 info: ("Note: "?, infoChar+).
 infoMarked: -" "?,-"(", infoChar+, -")", -" "?.
@@ -10,11 +10,6 @@ spLine: sp++tab.
 sp: (infoMarked, #9?)*, speaker, infoMarked?, speech, (("/";" - "; " | "; space; infoMarked), speech, tab?, controlChar*)*.
 speaker: ("???"; (["A"-"Z"], ["A"-"Z"; "a"-"z"; "?";"0"-"9";" ";"/-"]+)), (" ", infoMarked)?, -": ".
 speech: q+, (speechText;sic;brack;infoMarked)*, q+, brack?, " *"?.
-
-optionBlock: info*, optionSpeaker, (optionGrp, separator)+.
-optionSpeaker: ("Operator:"; "Drifter:"), eraseNewline.
-option: infoChar+, eraseNewline?.
-optionGrp: option, speech?.
 
 message: '“', messageBody+, mlb?, '”', (space, "—", messageChar+)?.
 
