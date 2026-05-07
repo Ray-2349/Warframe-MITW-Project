@@ -1,0 +1,259 @@
+Worm Queen	speaks	I'm afraid, sister. Your Continuity grows near.
+Elder Queen	speaks	Hush, worm. Let the beasts do their work.
+Worm Queen	speaks	But the dreamers have awakened. They will come for us.
+Elder Queen	speaks	Yes, they will... like the answer to a prayer.
+Lotus	speaks	Tenno? Are you alright? Your Somatics output seems high.
+Operator	speaks	I... just... nodded off. It's nothing.
+Lotus	speaks	Good. Deploy a Warframe to Lua. My sentries have gone silent. We may have an intrusion.
+Operator	speaks	On it.
+Lotus	speaks	It was here Margulis put you into the dream, tried to heal you... tried to give you the strength to tame the Void within you. In a way, this is where you, where all Tenno, were born.
+Operator	speaks	But we weren't born here, were we?
+Lotus	speaks	No. When the Zariman was found adrift, the Orokin did everything they could to erase their mistakes. Transit recordings, personnel logs... everything was wiped out. The only thing they kept was... you.
+Lotus	speaks	I'm detecting an unknown signature further ahead. Find out who it is and what they're doing.
+Operator	speaks	I just saw the intruder... moving fast. I think it's Teshin.
+Lotus	speaks	Teshin? What is he doing here? It looks like he's heading to a Reservoir. Follow him.
+Teshin	speaks	Leave now. This doesn't concern you, child.
+Operator	speaks	Don't call me that. What are you doing here?
+Elder Queen	speaks	Bring them to me.
+Operator	speaks	What was that?
+Teshin	speaks	The Queens.
+Operator	speaks	Queens?! The Grineer Queens? Tell me what--
+Teshin	speaks	I am warning you. You think you're safe behind this metal, but you're not. Not in the ways that matter here. Behind this, you're still just a child --
+Operator	speaks	Stop saying that.
+Teshin	speaks	Follow me again, Tenno, and you will answer to my sword.
+Lotus	speaks	I thought the Queens were just an invention of Grineer command. No one has ever seen them in the flesh.
+Operator	speaks	I have a feeling Teshin has. Can you track him?
+Lotus	speaks	Not with Specters masking him. But Tenno, we don't know anything about the Queens. Maybe Teshin alone should--
+Operator	speaks	No. Teshin's not going to tell me what I can and cannot do. I'll take out his Specters so you can track him.
+Lotus	speaks	I have a lock on his route. Exfiltrate when you're ready.
+Lotus	speaks	Teshin is trying to mask his location from us, but I have pinpointed a suspicious signal for you to investigate. Find him, we need answers.
+Lotus	speaks	All my scans for Teshin have converged on this location. Find him.
+Operator	speaks	Why hasn't he reached out to us? If he is pursuing the Queens, we can help him.
+Lotus	speaks	Pride or shame, he does seem to have some connection to them. Stay on the trail. Finding the Queens could give us a tactical advantage against the Grineer.
+Operator	speaks	Understood.
+Operator	speaks	I've picked up the trail again.
+Lotus	speaks	That's not Teshin, it's another one of his Specters. He's trying to shake us off the trail. Capture that Specter, we can use it to find the real Teshin.
+Lotus	speaks	Well done. Return to your ship, I will alert you when I've decrypted this Specter's control signature.
+Lotus	speaks	Teshin's Specter points to what should be an unpopulated asteroid field, but deep scans show the presence of a security-matrix. Someone is trying to hide something, I need you to find out what. Prepare your Archwing.
+Lotus	speaks	Something is hiding in this asteroid field but before you can investigate you need to disable the security matrix. Ordis, are you certain this is the best angle of approach?
+Ordis	speaks	Well, outside this corridor lie burst scanners, severe radiation, proximity mines, --GRINEER DEATH BEAMS-- so yes, Ordis recommends staying within the shipping corridor.
+Ordis	speaks	Operator, watch that transport ahead. The scanner is only able to scan one side at a time. You can use that to your advantage.
+Lotus	speaks	You heard Ordis. Keep the transport between yourself and the beams. Do not let them touch you.
+Ordis	speaks	They're going to scan the top of the transport, get below it.
+Ordis	speaks	Another scanner, to the right of the ship.
+Ordis	speaks	Watch out, to the ship's left, another scanner.
+Ordis	speaks	(sigh of relief) This is the last scanner.
+Lotus	speaks	Nicely done. They still haven't seen you.
+Ordis	speaks	You're clear.
+Ordis	speaks	Yes. Might I say that was smooth, Operator.
+Lotus	speaks	You're through. Land at the checkpoint.
+Lotus	speaks	You've been detected. They know you are here.
+Lotus	speaks	This checkpoint is the central hub of the security matrix. Shut it down so Ordis can fly you in undetected.
+Lotus	speaks	They're coming for you. Don't let them abort the shutdown.
+Ordis	speaks	Ordis no longer detects any security.
+Lotus	speaks	Good, but we can't take any chances, silence the remaining Grineer.
+Lotus	speaks	You are in the clear. Keep moving.
+Operator	speaks	Are you seeing this?!
+Lotus	speaks	(static) It must be the Queens' Fortress.
+Operator	speaks	Are those Fomorian engines mounted on an asteroid? No wonder we've never been able to find it. It's always moving.
+Lotus	speaks	(static) Excellent, Tenno. Now get out of there. We'll need to analyze the intel you've gathered before our next move.
+Operator	speaks	Negative. I'm heading in for a closer look.
+Lotus	speaks	(static) There is a lot of Transference distortion in this area. I recommend we abort this mission and wait for Teshin to reach out.
+Operator	speaks	If the base moves again, we'll lose this opportunity. I'm going in.
+Operator	speaks	Fine. I'll head back to the Orbiter, but the base won't be here for long.
+Ordis	speaks	Operator, if you must enter the Queens' Fortress, you'll need to hurry, it could disappear at any moment.
+Operator	speaks	Massively fortified. The Queens have to be here. I'm going to infiltrate the base.
+Operator	speaks	Lotus, are you receiving me?
+Elder Queen	speaks	We're so glad you came.
+Operator	speaks	Lotus? If you can hear me, something's tampering with the Transference stream. I'm going to locate the source.
+Queens	speaks	We have a gift for you.
+Operator	speaks	I know this place.
+Operator	speaks	Teshin?!
+Teshin	speaks	You shouldn't have come here. You've ruined us both.
+Elder Queen	speaks	Well done, Teshin Dax.
+Operator	speaks	Teshin Dax... you're with them?
+Teshin	speaks	I have come, as you commanded, my Queens.
+Worm Queen	speaks	And this is your offering? My sister needs the orphan child, not its Infested puppet.
+Teshin	speaks	The child? For what purpose?
+Worm Queen	speaks	(laughs) To eat it, of course!
+Elder Queen	speaks	Hush worm! Do not question your Lords, Teshin Dax. Bring me the orphan. Bring me my Yuvan.
+Operator	speaks	ENOUGH!
+Worm Queen	speaks	(gasp) How rude!
+Elder Queen	speaks	Oh, it's not their fault, worm. Mommy and Daddy weren't around long enough to teach them any manners. (laugh) We will have to.
+Operator	speaks	Ordis! What is this?!
+Ordis	speaks	A Transference surge, Operator! You're losing your Warframe connection!
+Elder Queen	speaks	You have some idea that you're invincible, don't you? Nestled away in that mad Cephalon's crib-
+Elder Queen	speaks	But you belong to me now. For you see, child, we conceived of these ugly, metal cysts.
+Ordis	speaks	Operator! Cut the link!
+Operator	speaks	I... I can't!
+Elder Queen	speaks	We gave you your precious gifts. And now, just as easily, we take them all away!
+Ordis	speaks	CUT THE LINK! Transference overload in 5... 4... 3...
+Operator	speaks	(grunts)
+Ordis	speaks	Great job, Ordis. Ship Cephalon? More like Ship Fail-bot. When the Operator needed you most you --
+Operator	speaks	Ordis, enough.
+Ordis	speaks	Operator?! By stars! Don't do that to me. I am sorry I do not know what happened. Please, command me to self-destruct. Let me start it for you... commencing self-destruct in 5--4--3--2--
+Operator	speaks	Stop... uh... what's with the music?
+Ordis	speaks	Isn't it great? I can lead you through some breathing exercises...
+Operator	speaks	Just... just turn it off! Get the Transference power back on, okay? I lost my Warframe.
+Ordis	speaks	I've been trying. You may need to do your uh... Tenno thing again. Re-energize it, you know, with your... Void stuff!
+Operator	speaks	I-I can't. It's... gone.
+Ordis	speaks	What? Gone? Are you sure? How will you command the Warframes if your --Conditions satisfied. Engaging Purge Precept.--
+Operator	speaks	Purge? Purge what?! Ordis?! What the hell?!
+Ordis	speaks	--You no longer possess Transference. You no longer command the Warframes. You no longer are the Operator. You must be purged from this vessel.--
+Ordis	speaks	Non-operator, I'm sorry to inconvenience you, but I'm going to decompress the ship now.
+Ordis	speaks	Former Operator, Ordis cannot keep missing like this! Get out of here before --I Purge you.--
+Ordis	speaks	Ex-Operator, if you get to the navigation console, I may be able to detach the landing craft before I... before I kill you.
+Ordis	speaks	--You are not the Operator. You will be purged.--
+Ordis	speaks	--Exterminate! Exterminate the non-Operator.--
+Ordis	speaks	Operator! Cut the link... cut the link!
+Operator	speaks	Ugh... What happened to you?
+Teshin	speaks	They gave up.
+Operator	speaks	You... you betrayed me, you Infested piece of--
+Teshin	speaks	Yes, do it.
+Teshin	speaks	As I thought. The hard way, then.
+Operator	speaks	So the great Teshin is just a dog... fetching the Queen's stick wherever she throws it.
+Teshin	speaks	I warned you. Now you're trapped inside this place with the Queens burrowing in. Now I am forced to undo what Margulis did, to open the gates... and make you suffer.
+Teshin	speaks	Margulis lied to you, a lie of omission. She did not cure the Zariman children - she erased them. My only hope is that truth still lingers inside you, buried within your mind. The power and the misery... of the Void.
+Teshin	speaks	The Ayatan Sculptures are perpetually in motion, monuments of Orokin Continuity... immortality. But this one is halted and aging, needing you, as the Queens do. Will you give in to them? Or will you face the coil?
+Operator	speaks	(grunts)
+Operator	speaks	I remember...
+Elder Queen	speaks	Mother takes your hand and says there's been an accident. But don't worry, angel, you're safe with me. Her eyes are distant, unfocused...
+Operator	speaks	She's lying.
+Operator	speaks	(gasps)
+Operator	speaks	(struggles to remove bone that stabbed into their leg)
+Teshin	speaks	Beware the ravenous Golden Maw!
+Operator	speaks	Why does it have to be ravenous?
+Teshin	speaks	The Queen burrows into your mind just as the creature worms beneath your feet. With each step, you will discover what Margulis took from you. With each step, pain awaits you.
+Operator	speaks	I can't even remember her face.
+Teshin	speaks	Your past has weathered Margulis' manipulation. It lurks here, your only hope of surviving the Queens.
+Teshin	speaks	Destroy this barrier and go deeper into your past.
+Operator	speaks	Sounds great, Teshin.
+Operator	speaks	(grunts)
+Operator	speaks	The air was acrid and still.
+Elder Queen	speaks	The biomes had been sabotaged. The food stocks dwindled. Paranoia gripped your father's mind. What was it he said - as he stared out into the starless black?
+Operator	speaks	Something's out there, kiddo... watching us.
+Operator	speaks	(grunts)
+Operator	speaks	The whole ship went insane.
+Teshin	speaks	You exist on the fold between two worlds. The world we know, of blood and steel, and the world that watches and dreams, the Void. Charge across the fold as you once did.
+Operator	speaks	Incredible. And I was kicking myself for not bringing a rope.
+Operator	speaks	(grunts)
+Operator	speaks	I smell... smoke.
+Elder Queen	speaks	Fires rage on the lower decks. Blood shimmers in the fitful light. Hunting parties roam the ship. But there is singing and laughter and play... for all the children have come together. Their minds, somehow unbent. You wipe away your tears, thinking-
+Operator	speaks	This is my family now.
+Operator	speaks	They tore her apart.
+Teshin	speaks	The Queen is nearly through. She knows what you did, giving her resolve. Now, you must master the fold. Walk upon its edge, concealing your movement within the shadows you create.
+Operator	speaks	Shadows I create. Another Teshin metaphor, right?
+Operator	speaks	I can hear them...
+Operator	speaks	(grunts)
+Elder Queen	speaks	The grownups are howling at the door... drowning mad in the Void ocean but you... you are at ease swimming within the depths! You remember then how the howling stopped - they had broken through.
+Operator	speaks	I held out hope we'd be rescued. So I avoided the bloodshed.
+Operator	speaks	They had lost their minds. I didn't blame them. We build[sic] a makeshift prison.
+Operator	speaks	They were nothing but animals by then. So I hunted.
+Teshin	speaks	Your repressed power has returned, fused with your Tenno abilities, amplifying them. You've outgrown the cradle. Now your Transference is innate. Control these Orokin beasts and escape this prison.
+Operator	speaks	Control them? Like a Warframe?
+Teshin	speaks	Know this Tenno, that I am a Dax. A soldier of a lost era, the last of my kind. By Orokin hands we Dax were given great power, great strength... but an even greater weakness.
+Teshin	speaks	To obey their command. To never defy the Kuva, the Scepter, the symbols of their dominion. No Dax can ever raise steel against an Orokin. Only you can do that.
+Teshin	speaks	A Yuvan theater, long abandoned. In ages past, I would have stood guard as the young and exotic were paraded through the mountain pass and marched by the viewing pane. They'd barter here, the Orokin. Withering and coughing- as they prepared for their Continuity.
+Operator	speaks	She doesn't want me dead.
+Teshin	speaks	No. The Queen doesn't want to kill you. She wants to become you. To burrow through your mind corrupting it with despair until only she remains.
+Operator	speaks	(grunts)
+Elder Queen	speaks	No crew aboard, only the children... only the parricidal monsters they had become. The endless Void, the gazing abyss, the bottomless ocean of horror... it coiled itself around your tender heart.
+Operator	speaks	I hated it.
+Operator	speaks	I controlled it.
+Operator	speaks	I embraced it.
+Ordis	speaks	CUT THE LINK!
+Ordis	speaks	CUT THE LINK! Transference overload in 5...4...3...2...1
+Operator	speaks	(screams)
+Ordis	speaks	Operator? Is that... is that 'you'? Your brain activity flat-lined for a moment there... Can you speak? By stars, the Operator's mind is destroyed?!!
+Operator	speaks	I... I'm fine. Just... just don't play any music. I need to think.
+Ordis	speaks	Music? ...Operator you are not making sense! The Transference surge must have affected you as well. Try to rest while I begin repairs.
+Ordis	speaks	Understood. The Operator does not like music.
+Ordis	speaks	Hmm... this is odd. The circuits are dead but I'm detecting Transference energy... coming from... coming from you?!
+Ordis	speaks	Amazing. How are you doing this? It is slightly terrifying if I'm honest.
+Ordis	speaks	Operator, my sensors have gone dark. Where are you?
+Ordis	speaks	Oh. There you are! Impressive. Very useful. Ordis is a little afraid right now.
+Ordis	speaks	Operator, you'll breach the hull! Please restrain yourself.
+Ordis	speaks	Have you lost your mind?
+Operator	speaks	No. But I've lost my Warframe... and Teshin... what if the Queens know that he helped me escape? I have to go back.
+Ordis	speaks	Impossible! Just as you thought, the base has moved again. We don't know where it is. There's no way back.
+Operator	speaks	My Warframe. It's still there.
+Ordis	speaks	Haven't you been listening? The Transference system is fried!
+Operator	speaks	I don't need it anymore.
+Ordis	speaks	Operator, where are you going? Don't leave meeeeee...
+Elder Queen	speaks	What did you do, Dax? What did you do?! How did a child reject the Continuity?
+Teshin	speaks	Forgive me, my Queens.
+Elder Queen	speaks	We hold the Scepter! We command you. We are--
+Worm Queen	speaks	Sister! The dreamer's come for us!
+Teshin	speaks	Tenno, no! After everything you've endured to escape, why did you come back?
+Operator	speaks	I came back for you.
+Elder Queen	speaks	Stupid child. You don't give up, do you? But coming here in the flesh? That was a big mistake. Guards! Kill this Warframe and bring me my new skin!
+Teshin	speaks	The Guardians protect the braids, the braids protect the Queen.
+Teshin	speaks	Tenno, this is one fight your Warframe cannot win.
+Teshin	speaks	Remember the mountain. Remember your new strength.
+Teshin	speaks	It's time to show the Queens what they have awoken within you.
+Teshin	speaks	Their weapons contain Kuva, it protects them from your Warframe but not from your Tenno powers.
+Teshin	speaks	They are protected by the Kuva in their weapons. Find a way to disarm them.
+Teshin	speaks	Tenno, remember the Golden Maw and how you brought it to heel.
+Teshin	speaks	Let the Guardians feel your pulse from the Void.
+Teshin	speaks	They're vulnerable. Attack.
+Teshin	speaks	The red braids shield her. Destroy them!
+Elder Queen	speaks	Shut up you insolent Dax!
+Elder Queen	speaks	Guards! Kill this Tenno!
+Elder Queen	speaks	Long enough have I lived in this ugly Grineer bodies. I need new flesh... I deserve new flesh! Yours! Guards! Kill this Warframe and bring me my new skin!
+Elder Queen	speaks	By my Orokin blood, I command you, Teshin Dax, to kill this Tenno.
+Teshin	speaks	No, I cannot.
+Elder Queen	speaks	You must. By your oath eternal.
+Teshin	speaks	That child I met on the mountain will surely die here.
+Operator	speaks	That child is gone.
+Teshin	speaks	I can show you no mercy, show me none in return.
+Teshin	speaks	Yes! From the moment I began training you, I have anticipated this moment.
+Teshin	speaks	You must not stop, defeat me.
+Teshin	speaks	You are a child no longer.
+Teshin	speaks	I am beaten.
+Teshin	speaks	I... Cannot go... On...
+Elder Queen	speaks	We are Orokin! We created you! We are your Golden Lords!
+Elder Queen	speaks	Come out, come out, little demon.
+Teshin	speaks	Without her Sceptre[sic], she is powerless. Break her shields and use your dash to steal it.
+Elder Queen	speaks	You'll pay for that.
+Elder Queen	speaks	I see now, how you cast me out. Simple, really. There's no room for me in that wicked, swarming head of yours.
+Elder Queen	speaks	Is this how you hunted the Zariman crew? Is this how you murdered your parents?
+Elder Queen	speaks	Show yourself you little coward.
+Elder Queen	speaks	(screeches)
+Operator	speaks	(grunts)
+Elder Queen	speaks	What are you waiting for, Dax?
+Teshin	speaks	A chance to kill you... and now I finally have it.
+Teshin	speaks	Shall I, Tenno?
+Operator	speaks	No. Let her rot. That will be her sentence.
+Operator	speaks	No. I will do it.
+Queen	speaks	No! NO! AHHH
+Operator	speaks	Kill her.
+Queen	speaks	No! NO! AHHH
+Teshin	speaks	The Worm has rallied the troops. Get to your ship. I'll divert them. Go!
+Lotus	speaks	Tenno? Tenno? I've been trying to get through. Are you... alright? Your Transference stream seems different, stronger.
+Operator	speaks	We have neutralized the Queens. Teshin... Teshin helped me. I'm heading to extraction now.
+Lotus	speaks	The Queens... they cut me off... I should have been there for you. I'll signal Ordis to pick you up right away.
+Operator	speaks	Understood.
+Worm Queen	speaks	Beast! Get that thing! Don't let it escape!
+Worm Queen	speaks	Where do you think you're going skin suit? I have plans for you, delicious plans.
+Ordis	speaks	Thank the stars you're safe Operator! I forbid you to leave the Orbiter like that again, it's just too much for an old Cephalon like me.
+Elder Queen	speaks	(screeches)
+Elder Queen	speaks	(coughing)
+Ordis	speaks	You rescued your Warframe! What a relief. But... Ordis wonders, are you still able to walk the ship as... yourself?
+Ordis	speaks	Impressive! Just think of the possibilities! You can help me clean up that Infested door!
+Lotus	speaks	A mother wants to shield her child from the evils of the world. Margulis didn't lie to you. She protected you.
+Operator	speaks	But isn't it better I know the truth? Wouldn't you want to know? Teshin said--
+Lotus	speaks	Teshin thinks he knows better. Maybe he does? Maybe you needed to know to survive the Queens. But you are changed now.
+Operator	speaks	That's what you have to say? That I'm 'changed'?
+Lotus	speaks	What you did. You didn't have a choice. Tenno, you were only just a--
+Operator	speaks	Don't. Don't do that. Don't make excuses for me.
+Ordis	speaks	What's this? An Old War beacon? How exciting, Operator. You will want to investigate this... Oh. I'm sorry... did I interrupt?
+Teshin	speaks	You don't know what to do with it.
+Operator	speaks	Tell me.
+Teshin	speaks	Hmm... Some believe the Kuva within is the blood of the Orokin Ancestors. An elixir of power... of immortality.
+Teshin	speaks	Others believe it to be a poison, a corrupting oil that brings madness and evil.
+Elder Queen	speaks	(ambient noises)
+Operator	speaks	What do you believe?
+Teshin	speaks	I believe them both. But for you, Tenno, perhaps this Kuva is just a symbol. That what you choose to do will define you more than anything.
+Teshin	speaks	The world weighs more heavily on you now. Try not to lose yourself, Tenno.
+Operator	speaks	I won't.
+Ordis	speaks	Operator, Ordis has been thinking. Now that you are here in the flesh, we should make the Orbiter more comfortable. Ordis has identified an old storage space you could use. Stand by while I --TORCH THIS JUNK-- dispose of my old belongings. Out with the old and in with the new, right, Operator? Construct this Domestic Habitation Segment to extend life support to your new room.
