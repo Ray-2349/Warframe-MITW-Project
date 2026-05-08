@@ -112,53 +112,83 @@
   <sp>
 <speaker> Kahl </speaker> <speech>For the Queens.</speech>
   </sp>
-<speaker> Councilor Vay Hek </speaker> <speech>That's it. Detonate at the base of that Bloated Condrix. FOR GLORY!</speech>
- 
-<speaker>. Councilor Vay Hek </speaker> I salute you, One-Seven-Five. For the Queens!
- 
-<speaker> Kahl </speaker> <speech>For the... huh... For my brothers.</speech>
- 
-<speaker> Erra </speaker> <speech>Don't be afraid.</speech>
+<speaker> Councilor Vay Hek </speaker> 
+ <speech>That's it. Detonate at the base of that Bloated Condrix. FOR GLORY!</speech>
+ <sp>
+     <speaker>. Councilor Vay Hek </speaker> 
+  <speech>I salute you, One-Seven-Five. For the Queens!</speech>
+ </sp>
+
+ <sp>
+    <speaker> Kahl </speaker> 
+  <speech>For the... huh... For my brothers.</speech>
+ </sp>
+<sp>
+    <speaker> Erra </speaker> 
+  <speech>Don't be afraid.</speech>
+</sp>
  
 <info>Veso-R</info>
-<speaker>Alad V</speaker> <speech>Hold fast to your stations, crews! Our glorious victory is close at hand! Oh, and, uh, any remaining techs aboard, narrow-band me at once!</speech>
+    <sp>
+        <speaker>Alad V</speaker> 
+    <speech>Hold fast to your stations, crews! Our glorious victory is close at hand! Oh, and, uh, any remaining techs aboard, narrow-band me at once!</speech>
+    </sp>
+<sp>
+    <speaker> Veso </speaker> 
+    <speech>Confirming tech aboard! Veso-R at your service, most gilded director, most...!</speech>
+</sp>
+ <sp>
+     <speaker>Alad V</speaker> 
+    <speech>Yes, yes thank Profit! My command overrides aren't working. I need to break fire control from the fleet. Can you fix that, Veko?</speech>
+ </sp>
+
+<speaker> Veso </speaker> 
+    <speech>It's Veso, most lucrative and sagacious visionary. Yes, I can try. There's a trace conduit nearby, I can bypass it--</speech>
  
-<speaker> Veso </speaker> <speech>Confirming tech aboard! Veso-R at your service, most gilded director, most...!</speech>
+<speaker>Alad V</speaker> 
+    <speech>--Great, yes, do your thing. There's a nice bonus in it if you can.</speech>
  
-<speaker>Alad V</speaker> <speech>Yes, yes thank Profit! My command overrides aren't working. I need to break fire control from the fleet. Can you fix that, Veko?</speech>
+<speaker> Veso </speaker> 
+    <speech>Hmm. A Breacher Moa could clear that debris. Wonder if the robotics dispenser still functional?</speech>
  
-<speaker> Veso </speaker> <speech>It's Veso, most lucrative and sagacious visionary. Yes, I can try. There's a trace conduit nearby, I can bypass it--</speech>
+<speaker> Veso </speaker> 
+    <speech>Aah! Why are you shooting at me?</speech>
  
-<speaker>Alad V</speaker> <speech>--Great, yes, do your thing. There's a nice bonus in it if you can.</speech>
+<speaker> Veso </speaker> 
+    <speech>Sir! Veso, here. Our robotics have gone rogue... the Sentients must have latched the grid!</speech>
  
-<speaker> Veso </speaker> <speech>Hmm. A Breacher Moa could clear that debris. Wonder if the robotics dispenser still functional?</speech>
+<speaker> Alad V </speaker> 
+    <speech>Someone has, yes. I'll pull some meat-crews to cover you. Just get me that override... um?</speech>
  
-<speaker> Veso </speaker> <speech>Aah! Why are you shooting at me?</speech>
- 
-<speaker> Veso </speaker> <speech>Sir! Veso, here. Our robotics have gone rogue... the Sentients must have latched the grid!</speech>
- 
-<speaker> Alad V </speaker> <speech>Someone has, yes. I'll pull some meat-crews to cover you. Just get me that override... um?</speech>
- 
-<speaker> Veso </speaker> <speech>Veso. Right. I've got a datapad, secure robot dispenser access... and a Plinx. Right.</speech>
+<speaker> Veso </speaker>
+    <speech>Veso. Right. I've got a datapad, secure robot dispenser access... and a Plinx. Right.</speech>
  
 <info>Shield Drone Unlocked</info>
-<speaker> Veso </speaker> <speech>A functioning shield drone dispenser? Oh, thank Profit.</speech>
+<speaker> Veso </speaker> 
+    <speech>A functioning shield drone dispenser? Oh, thank Profit.</speech>
  
-<speaker> Veso </speaker> <speech>My shields should hold up, if I'm fast.</speech>
+<speaker> Veso </speaker> 
+    <speech>My shields should hold up, if I'm fast.</speech>
  
-<speaker> Veso </speaker> <speech>There is no shame in maximizing my shields and just running.</speech>
+<speaker> Veso </speaker> 
+    <speech>There is no shame in maximizing my shields and just running.</speech>
  
-<speaker> Veso </speaker> <speech>No point trying to shoot my way through this.</speech>
+<speaker> Veso </speaker> 
+    <speech>No point trying to shoot my way through this.</speech>
  
-<speaker> Veso </speaker> <speech>Their shields are too strong to shoot through. Maybe if I boosted mine somehow.</speech>
+<speaker> Veso </speaker> 
+    <speech>Their shields are too strong to shoot through. Maybe if I boosted mine somehow.</speech>
  
 <info>Striker Moa Unlocked</info>
-<speaker> Veso </speaker> <speech>How many hostiles ahead? I can't do this! Unless... I get a Striker Moa.</speech>
+<speaker> Veso </speaker> 
+    <speech>How many hostiles ahead? I can't do this! Unless... I get a Striker Moa.</speech>
  
 <info>Targeting turret for attack</info>
-<speaker> Veso </speaker> <speech>Turrets look a little less scary now that I've got a Striker Moa.</speech>
+<speaker> Veso </speaker> 
+    <speech>Turrets look a little less scary now that I've got a Striker Moa.</speech>
  
-<speaker> Veso </speaker> Hello again, turrets. I've brought a friend this time.
+<speaker> Veso </speaker>
+    <speech>Hello again, turrets. I've brought a friend this time.</speech>
  <sp>
 <speaker>Alad V</speaker>
   <speech>If I don't stand down fire control soon, we'll all be sucking vacuum! Teko! What's taking so long?</speech>
@@ -168,21 +198,27 @@
 <speaker>Alad V </speaker>
   <speech>Look outside! We'll all about to be under new management! Now do your part or I'll find a more forward-thinking replacement.</speech>
  </sp>
-<speaker> Veso </speaker> There has to be a way to protect that Breacher Moa.
+<speaker> Veso </speaker> 
+   <speech>There has to be a way to protect that Breacher Moa.</speech> 
  
-<speaker> Veso </speaker> What if I shield that Moa?
+<speaker> Veso </speaker> 
+   <speech>What if I shield that Moa?</speech> 
  
-<speaker>Alad V</speaker> Our... uh... victory is ever-nearer, crew! Your service and sacrifice will be richly rewarded, yes!
+<speaker>Alad V</speaker> 
+   <speech>Our... uh... victory is ever-nearer, crew! Your service and sacrifice will be richly rewarded, yes!</speech> 
  
 <info>Jackal Boss</info>
-<speaker>Alad V</speaker> You see. This is why we need that command override back. The board just can't face reality. So what's your plan, Teso?
+<speaker>Alad V</speaker> 
+   <speech>You see. This is why we need that command override back. The board just can't face reality. So what's your plan, Teso?</speech> 
  
-<speaker> Veso </speaker> Plan? You mean, I have to... Okay. I guess... hit him in the knees? Trigger his a-attack routine? That should leave his shields vulnerable. In theory...
+<speaker> Veso </speaker> 
+   <speech>Plan? You mean, I have to... Okay. I guess... hit him in the knees? Trigger his a-attack routine? That should leave his shields vulnerable. In theory...</speech> 
 <sp>
 <speaker>Alad V</speaker> 
     <speech>Clever. Get to it.</speech>
 </sp>
-<speaker> Veso </speaker> Am... am I a traitor to the Board? Yes sir.
+<speaker> Veso </speaker> 
+  <speech>Am... am I a traitor to the Board? Yes sir.</speech>  
  
 <info>Jackal hovers</info>
  <sp>
@@ -194,7 +230,8 @@
   <speech>Got to blast those shields while I can!</speech>
  </sp>
  <sp>
-<speaker> Veso </speaker> Drain those shields and that will force his self-repair routine.
+<speaker> Veso </speaker> 
+   <speech>Drain those shields and that will force his self-repair routine.</speech>
  </sp>
 <info>If Breacher Moa dies to electric floor</info>
  <sp>
@@ -369,57 +406,72 @@
 <speaker> Ordis </speaker> 
  <speech>Almost done, Teshin</speech>
  
-<speaker> Ordis </speaker> Orphix fields are disabled. The Operator should be cleared to board.
+<speaker> Ordis </speaker> 
+  <speech>Orphix fields are disabled. The Operator should be cleared to board.</speech>
  
-<speaker> Teshin </speaker> No. Too easy. Let me nudge the snares first.
+<speaker> Teshin </speaker> <speech>No. Too easy. Let me nudge the snares first.</speech>
  
-<speaker> Ballas </speaker> That's it. Come to me, old man. I am eager to show you how this war ends. Not with brutality, but with hope. Not with lies, but truth. A truth for all who are strong enough to believe. Even you.
+<speaker> Ballas </speaker> <speech></speech>That's it. Come to me, old man. I am eager to show you how this war ends. Not with brutality, but with hope. Not with lies, but truth. A truth for all who are strong enough to believe. Even you.
  
-<speaker> Ballas </speaker> Wake up, sleepyhead.
+<speaker> Ballas </speaker> <speech>Wake up, sleepyhead.</speech>
  
-<speaker> Ballas </speaker> You're going to want to see this. Watch the Veil do its work.
+<speaker> Ballas </speaker> <speech>You're going to want to see this. Watch the Veil do its work.</speech>
  
-<speaker> Erra </speaker> Call out, Dax.
+<speaker> Erra </speaker> <speech>Call out, Dax.</speech>
  
-<speaker> Teshin </speaker> Cool water flows. The moon, behind a cloud.
+<speaker> Teshin </speaker> <speech>Cool water flows. The moon, behind a cloud.</speech>
  
-<speaker> Teshin </speaker> (grunts)
+<speaker> Teshin </speaker> <infoMarked>(grunts)</infoMarked>
  
-<speaker> Teshin </speaker> ... No!
+<speaker> Teshin </speaker> <infoMarked>... No!</infoMarked>
  
-<speaker> Ballas </speaker> He'll give in soon. They all will... and this war will be over before it even begins. Not with bombs and blood... but with truth. They programmed you and your kind. Now it is our turn to program them.
+<speaker> Ballas </speaker> <speech>He'll give in soon. They all will... and this war will be over before it even begins. Not with bombs and blood... but with truth. They programmed you and your kind. Now it is our turn to program them.</speech>
  
-<speaker> Erra </speaker> Summon your devil. It's time.
+<speaker> Erra </speaker> <speech>Summon your devil. It's time.</speech>
  
-<speaker> Teshin </speaker> Why? No! No! Valeria!
+<speaker> Teshin </speaker> <speech>Why? No! No! Valeria!</speech>
  
-<speaker> Ballas </speaker> See the Veil work. Turning his memories inside out. Making him see the things he's lost. Putting pain where it serves us. A lost love, perhaps... her life, cut short by the very Tenno he had sworn to protect.
+<speaker> Ballas </speaker> 
+ <speech>See the Veil work. Turning his memories inside out. Making him see the things he's lost. Putting pain where it serves us. A lost love, perhaps... her life, cut short by the very Tenno he had sworn to protect.</speech>
  
-<speaker> Erra </speaker> Call out, old man. Give her justice, give her peace!
+<speaker> Erra </speaker> 
+  <speech>Call out, old man. Give her justice, give her peace!</speech>
  
-<speaker> Teshin </speaker> I-I can... see her... Tenno... why???
+<speaker> Teshin </speaker> 
+   <speech>I-I can... see her... Tenno... why???</speech>
  
-<speaker> Erra </speaker> One for the reject pile, then.
+<speaker> Erra </speaker> 
+    <speech>One for the reject pile, then.</speech>
  
-<speaker> Ballas </speaker> Goodbye, my love.
+<speaker> Ballas </speaker> 
+    <speech>Goodbye, my love.</speech>
  
-<speaker> Natah </speaker> Let me go, child. Let me go.
+<speaker> Natah </speaker> 
+   <speech>Let me go, child. Let me go.</speech>
  
-<speaker> Operator </speaker> I can't! I won't.
+<speaker> Operator </speaker> 
+   <speech>I can't! I won't.</speech>
 
-<speaker> Operator </speaker> (struggles)
+<speaker> Operator </speaker> 
+    <infoMarked>(struggles)</infoMarked>
 
-<speaker> Ballas </speaker> You cannot kill the devil, Tenno!
+<speaker> Ballas </speaker> 
+   <speech>You cannot kill the devil, Tenno!</speech>
  
-<speaker> Operator </speaker> (struggles)
+<speaker> Operator </speaker> 
+  <infoMarked>(struggles)</infoMarked>
 
-<speaker> Ballas </speaker> ...but you can send it back to hell!
+<speaker> Ballas </speaker> 
+  <speech>...but you can send it back to hell!</speech>
  
-<speaker> Operator </speaker> (grunts)
+<speaker> Operator </speaker> 
+   <infoMarked>(grunts)</infoMarked>
 
-<speaker> Operator </speaker> (struggles)
+<speaker> Operator </speaker> 
+   <infoMarked>(struggles)</infoMarked>
 
-<speaker> Operator </speaker> (winces)
+<speaker> Operator </speaker> 
+   <infoMarked>(winces)</infoMarked>
 
 <info>Teshin grunts</info>
 <speaker> Teshin </speaker> (grunts)
@@ -431,13 +483,16 @@
   <speech>All... as one.</speech>
  </sp>
   <sp>
-<speaker> Ballas </speaker> I stand before you... last of my kind. An orphan of Tenno massacres. But their violence did not end with me, did it? It carried on... to all of you.
+<speaker> Ballas </speaker> 
+   <speech>I stand before you... last of my kind. An orphan of Tenno massacres. But their violence did not end with me, did it? It carried on... to all of you.</speech>
   </sp>
   <sp>
-<speaker> Ballas </speaker> Grineer languished in their torture-plexes. Ostron clades starved for Tenno tithe. Corpus pupils weeping Tenno praise under blade. Solaris souls blackened the skies of Tenno foundries.
+<speaker> Ballas </speaker> 
+ <speech>Grineer languished in their torture-plexes. Ostron clades starved for Tenno tithe. Corpus pupils weeping Tenno praise under blade. Solaris souls blackened the skies of Tenno foundries.</speech>
   </sp>
  <sp>
-<speaker> Ballas </speaker> But now is our time. An era of peace and security. The devils have been cast out. And by the Void... the Tenno shall never return!
+<speaker> Ballas </speaker> 
+  <speech>But now is our time. An era of peace and security. The devils have been cast out. And by the Void... the Tenno shall never return!</speech>
  </sp>
 <info>Earth</info>
  <sp>
@@ -450,7 +505,7 @@
     </sp>
  <sp>
 <speaker>???</speaker>
-     Too deep to know for sure... but what if there's an Archon down there?
+  <speech>Too deep to know for sure... but what if there's an Archon down there?</speech> 
  </sp>
   <sp>
 <speaker>(Player)??? </speaker>
@@ -471,7 +526,6 @@
 <speaker>(Player)???</speaker>
    <speech>--stay cool.</speech>
   </sp>
-
  <sp>
 <speaker>???</speaker>
   <speaker>I have no idea what that means.</speaker>
@@ -482,18 +536,23 @@
   <speech>Let's hope you're not too late.</speech>
  </sp>
 <info>Cutscene</info>
-<speaker> Ostron </speaker> No! No! Kruna metta! Please!
- 
-<speaker> Ballas </speaker> Ostron clades starved for Tenno tithe.
- 
-<speaker> Ostron </speaker> All as-- There! APOSTASY!
- 
+ <sp>
+  <speaker> Ostron </speaker>
+ <speech>No! No! Kruna metta! Please!</speech>
+ </sp>
+
+ <sp></sp>
+<speaker> Ballas </speaker> 
+  <speech>Ostron clades starved for Tenno tithe.</speech>
+ <sp></sp>
+<speaker> Ostron </speaker> 
+  <speech>All as-- There! APOSTASY!</speech>
+ <sp></sp>
 <info>After killing all enemies</info>
   <sp>
 <speaker>(Player)???</speaker>
    <speech>Easy now. I'm not going to hurt you... Let me get that thing off your face...</speech>
  </sp>
- 
  
  <sp>
 <speaker> Ostron </speaker> 
@@ -507,7 +566,6 @@
 <speaker>(Player)???</speaker>
   <speech>Call the ship, smart ass!</speech>
  </sp>
- 
  
 <sp> 
 <speaker>???</speaker> 
@@ -523,80 +581,116 @@
 <speaker> Male Ostron </speaker> 
   <speech>Dah-dap, surah. Dah-dap.</speech>
  </sp>
-<speaker> Male Ostron </speaker> Help the others. Kruna-metta.
+  <sp>
+      <speaker> Male Ostron </speaker> 
+ <speech>Help the others. Kruna-metta.</speech>
+  </sp>
+<sp>
+    <speaker> Male Ostron </speaker> 
+  <speech>Dah-dap. Sho-la.</speech>
+</sp>
+ <sp>
+     <speaker> Male Ostron </speaker> 
+  <speech>Never will I submit to Narmer.</speech>
+ </sp>
+ <sp>
+     <speaker> Male Ostron </speaker> 
+  <speech>Dah-dap.</speech>
+ </sp>
+ <sp>
+     <speaker> Female Ostron </speaker> 
+ <speech>The Unum, did she send you? Does she live?</speech>
+ </sp>
+<sp>
+    <speaker> Female Ostron </speaker> 
+ <speech>You will rescue the others, yes?</speech>
+</sp>
  
-<speaker> Male Ostron </speaker> Dah-dap. Sho-la.
+<speaker> Female Ostron </speaker>
+ <speech>Do not succumb to the mask, surah. She gives, we live.</speech>
  
-<speaker> Male Ostron </speaker> Never will I submit to Narmer.
+<speaker> Female Ostron </speaker> 
+  <speech>Do not concern yourself with me, surah.</speech>
  
-<speaker> Male Ostron </speaker> Dah-dap.
+<speaker> Female Ostron </speaker> 
+  <speech>Kruna-metta. My family, I must find them.</speech>
  
-<speaker> Female Ostron </speaker> The Unum, did she send you? Does she live?
+<speaker> Female Ostron </speaker> 
+ <speech>Release me, utz.</speech>
  
-<speaker> Female Ostron </speaker> You will rescue the others, yes?
- 
-<speaker> Female Ostron </speaker> Do not succumb to the mask, surah. She gives, we live.
- 
-<speaker> Female Ostron </speaker> Do not concern yourself with me, surah.
- 
-<speaker> Female Ostron </speaker> Kruna-metta. My family, I must find them.
- 
-<speaker> Female Ostron </speaker> Release me, utz.
- 
-<speaker> Female Ostron </speaker> Ai yo.
+<speaker> Female Ostron </speaker> 
+  <speech>Ai yo.</speech>
  
 <info>Narmer Propaganda</info>
-<speaker> Ballas </speaker> All as one.
+<speaker> Ballas </speaker> 
+  <speech>All as one.</speech>
  
-<speaker> Ballas </speaker> A nightmare is over. Finally we see clearly. Finally we speak freely.
+<speaker> Ballas </speaker>
+  <speech>A nightmare is over. Finally we see clearly. Finally we speak freely.</speech>
  
-<speaker> Ballas </speaker> Savor the taste of liberty my friends. Don't ever relax your vigilance. All as one.
+<speaker> Ballas </speaker> 
+  <speech>Savor the taste of liberty my friends. Don't ever relax your vigilance. All as one.</speech>
  
-<speaker> Ballas </speaker> Future generations won't remember the Tenno oppression, but we do.
+<speaker> Ballas </speaker> 
+  <speech>Future generations won't remember the Tenno oppression, but we do.</speech>
  
-<speaker> Ballas </speaker> We bear the scars, we mourn the dead, and we must never allow ourselves to forget. All as one.
+<speaker> Ballas </speaker> 
+   <speech>We bear the scars, we mourn the dead, and we must never allow ourselves to forget. All as one.</speech>
  
-<speaker> Ballas </speaker> To those few who have yet to embrace Narmer, hear this we understand.
+<speaker> Ballas </speaker> 
+  <speech>To those few who have yet to embrace Narmer, hear this we understand.</speech>
  
-<speaker> Ballas </speaker> We see your fear, your hesitation, and we say come into the warm.
+<speaker> Ballas </speaker> 
+  <speech>We see your fear, your hesitation, and we say come into the warm.</speech>
  
-<speaker> Ballas </speaker> To those who imagined that any shall be rejected, hear this there is room for you too, in this better world.
+<speaker> Ballas </speaker> 
+   <speech>To those who imagined that any shall be rejected, hear this there is room for you too, in this better world.</speech>
  
-<speaker> Ballas </speaker> But come sooner rather than later, for our pity shall only last so long. All as one.
+<speaker> Ballas </speaker> 
+   <speech>But come sooner rather than later, for our pity shall only last so long. All as one.</speech>
  
-<speaker> Ballas </speaker> They breed in the midnight places. A pestilence. You have known them of old. Told tales of their evil.
+<speaker> Ballas </speaker> 
+   <speech>They breed in the midnight places. A pestilence. You have known them of old. Told tales of their evil.</speech>
  
-<speaker> Ballas </speaker> Stand strong. Stand together.
+<speaker> Ballas </speaker> 
+   <speech>Stand strong. Stand together.</speech>
  
-<speaker> Ballas </speaker> One cord alone may snap, but a rope woven of many cords may bind. All must do their part. All as one.
+<speaker> Ballas </speaker> 
+  <speech>One cord alone may snap, but a rope woven of many cords may bind. All must do their part. All as one.</speech>
  
-<speaker> Ballas </speaker> I saw a system divided, and I brought unity. I went over the orphans of war, and I brought peace.
+<speaker> Ballas </speaker> 
+  <speech>I saw a system divided, and I brought unity. I went over the orphans of war, and I brought peace.</speech>
  
-<speaker> Ballas </speaker> My ears rang with a cacophany of chaos and I said Be still.
+<speaker> Ballas </speaker> 
+    <speech>My ears rang with a cacophany of chaos and I said Be still.</speech>
  
-<speaker> Ballas </speaker> This bounty I give to you freely. Not the spoils of conquest, nor the profit of trade, but the gift of a loving father. All as one.
+<speaker> Ballas </speaker> 
+   <speech>This bounty I give to you freely. Not the spoils of conquest, nor the profit of trade, but the gift of a loving father. All as one.</speech>
  
-<speaker> Ballas </speaker> Just as a crystal lens first brought the heavenly bodies within the sight of man, so does the Veil show us the world as it truly is.
+<speaker> Ballas </speaker> 
+  <speech>Just as a crystal lens first brought the heavenly bodies within the sight of man, so does the Veil show us the world as it truly is.</speech>
  
-<speaker> Ballas </speaker> Seek out those who still walk within the smoke of confusion, and cry aloud for comfort. Take their hands and guide them into the light. All as one.
+<speaker> Ballas </speaker> 
+  <speech>Seek out those who still walk within the smoke of confusion, and cry aloud for comfort. Take their hands and guide them into the light. All as one.</speech>
  
-<speaker> Ballas </speaker> There are those who hate and fear the truth. And well they might. For the truth is a surgeon's scalpel and has no mercy for what is foul and diseased.
+<speaker> Ballas </speaker> 
+  <speech>There are those who hate and fear the truth. And well they might. For the truth is a surgeon's scalpel and has no mercy for what is foul and diseased.</speech>
  
-<speaker> Ballas </speaker> Purge, and purge again, until only the truth remains. All as one.
+<speaker> Ballas </speaker> 
+  <speech>Purge, and purge again, until only the truth remains. All as one.</speech>
  
 <info>Drifter's Camp</info>
-<speaker> Nora Night </speaker> How long's it been, since the Tenno left without sayin' goodbye? Since Narmer and the masks? Since the truth became a luxury few can lay their hands on? Whoever's picked up the mantle the Tenno dropped, driftin' wild, poppin' masks and loosin' bonds, whoever you may be, we salute you. Drifter.
+<speaker> Nora Night </speaker> 
+  <speech>How long's it been, since the Tenno left without sayin' goodbye? Since Narmer and the masks? Since the truth became a luxury few can lay their hands on? Whoever's picked up the mantle the Tenno dropped, driftin' wild, poppin' masks and loosin' bonds, whoever you may be, we salute you. Drifter.</speech>
  <sp>
 <speaker> Drifter </speaker> 
   <speech>Hey! Gimme that.</speech>
  </sp>
  
- 
  <sp>
 <speaker> Drifter </speaker> 
  <speech>Alright... alright. Good to see you too.</speech>
  </sp>
- 
  
  <sp>
 <speaker> Drifter </speaker> 
@@ -622,7 +716,8 @@
   <speech>I told you. Don't call me that.</speech>
   </sp>
 
-<speaker> Ordis </speaker> Sorry, Op-- Sorry. If you want to get to the Outer systems past Narmer, we'll need a Corpus shuttle.
+<speaker> Ordis </speaker> 
+  <speech>Sorry, Op-- Sorry. If you want to get to the Outer systems past Narmer, we'll need a Corpus shuttle.</speech>
  
 <info>Stolen Plates</info>
 <info>Fortuna</info>
@@ -672,7 +767,6 @@ For Narmer
 <speaker> Drifter </speaker> 
    <speech>All as one.</speech>
  </sp>
- 
  
  <sp>
 <speaker> Solaris Male </speaker> 
@@ -742,19 +836,24 @@ For Narmer
   <speech>My child... so beautiful to behold. How do you feel?</speech>
  </sp>
  <sp>
-<speaker> Lotus </speaker> We found you within the derelict Zariman. Feral. Evil. Void in your heart... but Ballas... he saw a lost child in need of a father. As you recovered, he noticed me less and less. What good was I to him if you weren't sick?
+<speaker> Lotus </speaker>
+  <speech>We found you within the derelict Zariman. Feral. Evil. Void in your heart... but Ballas... he saw a lost child in need of a father. As you recovered, he noticed me less and less. What good was I to him if you weren't sick?</speech>
  </sp>
  <sp>
-<speaker> Lotus </speaker> I loved him, but he only loved you. The stasis dreams were the only choice I had. Your Zariman dreams of mother, father... I made them nightmares.
+<speaker> Lotus </speaker> 
+<speech>I loved him, but he only loved you. The stasis dreams were the only choice I had. Your Zariman dreams of mother, father... I made them nightmares.</speech>
  </sp>
  <sp>
-<speaker> Lotus </speaker> And it worked. You began to see Ballas not as the father, but as the phantom of your nightmares. He confined in me. The deeper your madness, the deeper our love. Ballas was mine.
+<speaker> Lotus </speaker> 
+<speech>And it worked. You began to see Ballas not as the father, but as the phantom of your nightmares. He confined in me. The deeper your madness, the deeper our love. Ballas was mine.</speech>
  </sp>
  <sp>
-<speaker> Little Duck </speaker> Blending in nice, but I'd still give those Deacons a wide berth. Did you know they can detonate those veils if they smell a rat?
+<speaker> Little Duck </speaker> 
+ <speech>Blending in nice, but I'd still give those Deacons a wide berth. Did you know they can detonate those veils if they smell a rat?</speech>
  </sp>
  <sp>
-<speaker> Little Duck </speaker> Ya shammin' brainless real nice, but I'd still give those Deacons a wide berth. They smell a rat, your Veil[sic] detonates. Take your whole face off an' no mistake.
+<speaker> Little Duck </speaker> 
+<speech>Ya shammin' brainless real nice, but I'd still give those Deacons a wide berth. They smell a rat, your Veil[sic] detonates. Take your whole face off an' no mistake.</speech>
  </sp>
  <sp>
 <speaker> Ordis </speaker> 
@@ -839,62 +938,88 @@ For Narmer
 <speaker> Hunhow </speaker> Should he howl, the pack will appear. Mirrors of himself, meant to confuse. Only the true eye can distinguish the alpha among them.
  
 <info>I've seen the Snake before.</info>
-<speaker> Drifter </speaker> I've seen the Snake before.
+<speaker> Drifter </speaker> 
+  <speech>I've seen the Snake before.</speech>
  
-<speaker> Hunhow </speaker> You know Nira. The eldest. Her whip cracks with an Eidolon's wrath... bone-shattered shockwaves unleached by every unfurling of its tip.
+<speaker> Hunhow </speaker> 
+  <speeech>You know Nira. The eldest. Her whip cracks with an Eidolon's wrath... bone-shattered shockwaves unleached by every unfurling of its tip.</speeech>
  
-<speaker> Hunhow </speaker> Her whip is more than pain; it is protection. And more... for if you stand in awe of its spiral, the great thunderclap that follows will knock you senseless. Though... she may be diminished somewhat by this exertion.
+<speaker> Hunhow </speaker> 
+  <speech>Her whip is more than pain; it is protection. And more... for if you stand in awe of its spiral, the great thunderclap that follows will knock you senseless.</speech> Though... she may be diminished somewhat by this exertion.
  
-<speaker> Hunhow </speaker> And her gaze. To meet her gaze is certain death. Only by turning away would you hope to survive.
+<speaker> Hunhow </speaker> 
+  <speeaker>And her gaze. To meet her gaze is certain death. Only by turning away would you hope to survive.</speeaker>
  
-<speaker> Hunhow </speaker> Vainglorious whelp. That's it? Off you go to die? You have nothing to fight these beasts with! I cannot guess how many lives a Tenno has, but you seem eager to lose another.
+<speaker> Hunhow </speaker> 
+  <speech>Vainglorious whelp. That's it? Off you go to die? You have nothing to fight these beasts with! I cannot guess how many lives a Tenno has, but you seem eager to lose another.</speech>
  
-<speaker> Drifter </speaker> I've got work to do. You can lay here all you want, doing nothing, wallowing in ancient grudges. She chose the Tenno. But Ballas and your groveling son... they used her. They'll do it again and again. Burning her up for whatever suits them and tossing the ashes when they're done. They cannot have her.
+<speaker> Drifter </speaker> 
+ <speech>I've got work to do. You can lay here all you want, doing nothing, wallowing in ancient grudges. She chose the Tenno. But Ballas and your groveling son... they used her. They'll do it again and again. Burning her up for whatever suits them and tossing the ashes when they're done. They cannot have her.</speech>
 
-<speaker> Hunhow </speaker> Tenno. Wait.
+<speaker> Hunhow </speaker> 
+  <speech>Tenno. Wait.</speech>
  
-<speaker> Hunhow </speaker> I have wallowed here, it is true, fading in this deep hole, waiting to die... but without release. Held here by a purpose I cannot abandon. That she... is free. So no. They cannot have her. But hear me - even if I help you, even if by some miracle you succeed... she will not be the same. Even for us... death... leaves a mark. Do you understand?
+<speaker> Hunhow </speaker> 
+  <speech>I have wallowed here, it is true, fading in this deep hole, waiting to die... but without release. Held here by a purpose I cannot abandon. That she... is free. So no. They cannot have her. But hear me - even if I help you, even if by some miracle you succeed... she will not be the same. Even for us... death... leaves a mark. Do you understand?</speech>
  
-<speaker> Drifter </speaker> I understand.
+<speaker> Drifter </speaker> 
+  <speech>I understand.</speech>
  
-<speaker> Hunhow </speaker> A weapon as old as those you hunt. Nataruk.
+<speaker> Hunhow </speaker> 
+  <speech>A weapon as old as those you hunt. Nataruk</speech>.
  
 <info>Sentients spawning</info>
-<speaker> Hunhow </speaker> If you are worthy of Nataruk, you won't mind a little test, will you?
+<speaker> Hunhow </speaker> 
+ <speech>If you are worthy of Nataruk, you won't mind a little test, will you?</speech>
  
-<speaker> Hunhow </speaker> Nataruk can fire fast and true... But you will need to time your release with the weapon's rhythm if you hope to pierce the blighted skin of an Archon.
+<speaker> Hunhow </speaker> 
+ <speech>Nataruk can fire fast and true... But you will need to time your release with the weapon's rhythm if you hope to pierce the blighted skin of an Archon.</speech>
  
-<speaker> Hunhow </speaker> Archons will raise the dead to swarm you. But Nira is not the only one to call thunder.
+<speaker> Hunhow </speaker> 
+ <speech>Archons will raise the dead to swarm you. But Nira is not the only one to call thunder.</speech>
  
-<speaker> Hunhow </speaker> Even the mighty Archons will have their weaknesses, but not always exposed. You may need to wait to observe to find your opportunity.
+<speaker> Hunhow </speaker> 
+ <speech>Even the mighty Archons will have their weaknesses, but not always exposed. You may need to wait to observe to find your opportunity.</speech>
  
-<speaker> Hunhow </speaker> You are quick to it. But facing the Archon will not be as easy. You must study and prepare.
+<speaker> Hunhow </speaker> 
+  <speech>You are quick to it. But facing the Archon will not be as easy. You must study and prepare.</speech>
  
 <info>Outside of the sealab</info>
-<speaker> Ordis </speaker> Oper- Uh... You. You're alive! I can hardly believe it. He actually agreed to help?
+<speaker> Ordis </speaker> 
+ <speech>Oper- Uh... You. You're alive! I can hardly believe it. He actually agreed to help?</speech>
  
-<speaker> Drifter </speaker> Yeah... bastard even gave me homework.
+<speaker> Drifter </speaker> 
+ <speech>Yeah... bastard even gave me homework.</speech>
 
 <info>Temporal Axioms</info>
-<speaker> Ballas </speaker> You cannot kill the devil, Tenno! ...but you can send it back to hell!
+<speaker> Ballas </speaker> 
+ <speech>You cannot kill the devil, Tenno! ...but you can send it back to hell!</speech>
  
 <info>In Zariman Ten Zero</info>
-<speaker> Cephalon Melica </speaker> Quiet down, please. Stand for pledges.
+<speaker> Cephalon Melica </speaker> 
+ <speech>Quiet down, please. Stand for pledges.</speech>
  
-<speaker> Zariman Students </speaker> By the glory and wisdom of the Seven I give my life--
+<speaker> Zariman Students </speaker> 
+ <speech>By the glory and wisdom of the Seven I give my life--</speech>
  
-<speaker> Jenva </speaker> You wanna get detention again?
+<speaker> Jenva </speaker> 
+  <speech>You wanna get detention again?</speech>
  
-<speaker> Zariman Students </speaker> --To carry the sacred light of our dominion into the deepest dark. In this... we are one.
+<speaker> Zariman Students </speaker> 
+    --To carry the sacred light of our dominion into the deepest dark. In this... we are one.
  
-<speaker> Cephalon Melica </speaker> Save all that chitter chatter for Tau! Our jump schedule has changed again so we're moving exams up with it! Everyone has studied their Temporal Axioms unit I assume?
+<speaker> Cephalon Melica </speaker> 
+    Save all that chitter chatter for Tau! Our jump schedule has changed again so we're moving exams up with it! Everyone has studied their Temporal Axioms unit I assume?
  
-<speaker> Mathon </speaker> T.A.? But we were meant to have Phasics!
+<speaker> Mathon </speaker> 
+    T.A.? But we were meant to have Phasics!
  
-<speaker> Cephalon Melica </speaker> By my precepts, I've never had such an enthusiastic group of students! Now. Eyes of the main screen, and pay close attention!
+<speaker> Cephalon Melica </speaker> 
+    By my precepts, I've never had such an enthusiastic group of students! Now. Eyes of the main screen, and pay close attention!
  
 <info>Presentation</info>
-<speaker> Euleria Entrati </speaker> Temporal Axioms - Unit 6. The Prison of Linear Time.
+<speaker> Euleria Entrati </speaker> 
+    Temporal Axioms - Unit 6. The Prison of Linear Time.
  
 <info>Presentism</info>
 <speaker> Euleria Entrati </speaker> Presentism, the obsolete theory of linear time, posits that now is all that is real.
@@ -1065,33 +1190,47 @@ For Narmer
 <speaker> Drifter </speaker> Soon. Soon. I promise.
  
 <speaker> Lotus </speaker> More!
- 
-<speaker> Lotus </speaker> (growls)
+ <sp>
+     <speaker> Lotus </speaker> 
+  <infoMarked>(growls)</infoMarked>
+ </sp>
  
 <info>Flashback to Zariman</info>
-<speaker> Jenva </speaker> I'm hungry...
+ <sp>
+    <speaker> Jenva </speaker> 
+ <speech>I'm hungry...</speech> 
+ </sp>
  
-<speaker> Berryn </speaker> Was that... was that my mom?
+<speaker> Berryn </speaker> 
+    Was that... was that my mom?
  
-<speaker> Cephalon Melica </speaker> Class. C-C-Classssssss. Void Jump in fif-fif-fif. Class. Student.
+<speaker> Cephalon Melica </speaker> 
+  <speech>Class. C-C-Classssssss. Void Jump in fif-fif-fif. Class. Student.</speech>
  
 <info>Ambient</info>
-<speaker> Cephalon Melica </speaker> Class. C-C-Classssssss. Void Jump in fif-fif-fif. Class. Student.
+<speaker> Cephalon Melica </speaker> 
+   <speech>Class. C-C-Classssssss. Void Jump in fif-fif-fif. Class. Student.</speech>
  
 <info>'Silence Cephalon'</info>
-<speaker>Operator (Heron/Owl) </speaker> Cephalon, kill lights, and switch off.
+<speaker>Operator (Heron/Owl) </speaker> 
+    <speech>Cephalon, kill lights, and switch off.</speech>
  
-<speaker>Operator (Raven/Falcon)</speaker> Cephalon, kill the lights, and switch off.
+<speaker>Operator (Raven/Falcon)</speaker> 
+    <speech>Cephalon, kill the lights, and switch off.</speech>
  
-<speaker> Cephalon Melica </speaker> Void Jump commencing! How ex---cit---ing
+<speaker> Cephalon Melica </speaker> 
+    <speech>Void Jump commencing! How ex---cit---ing</speech>
  
-<speaker> Operator </speaker> Quiet, everyone. Keep your voices down.
+<speaker> Operator </speaker> 
+  <speech>Quiet, everyone. Keep your voices down.</speech>
  
 <info>Talking to Terolee</info>
-<speaker> Terolee </speaker> Why is this happening to us? What did we do wrong?
+<speaker> Terolee </speaker> 
+   <speech>Why is this happening to us? What did we do wrong?</speech>
  
 <info>[Sun] Something went wrong with the jump...</info>
-<speaker> Operator </speaker> Something went wrong with the jump. But we'll survive. Promise.
+<speaker> Operator </speaker> 
+    <speech>Something went wrong with the jump. But we'll survive. Promise.</speech>
  
 <info>[Neutral] We need to stay quiet...</info>
 <speaker>Operator (Heron)</speaker> Just, just try to keep quiet... and don't let him fall asleep, okay?
@@ -1242,29 +1381,26 @@ For Narmer
  
 <sp><speaker> Operator </speaker> <speech>Uh. Yeah.</speech></sp>
  
-<sp><speaker> Drifter </speaker> Ordis... okay?</sp>
+<sp><speaker> Drifter </speaker> <speech>Ordis... okay?</speech></sp>
  
-<sp><speaker> Operator </speaker> Yeah. But, what are--</sp>
+<sp><speaker> Operator </speaker> <speech>Yeah. But, what are--</speech></sp>
  
-<sp><speaker> Drifter </speaker> --Got all your Warframes back.</sp>
+<sp><speaker> Drifter </speaker> <speech>--Got all your Warframes back.</speech></sp>
  
-<sp><speaker> Operator </speaker> Yeah. Why did you--</sp>
+<sp><speaker> Operator </speaker> <speech>Yeah. Why did you--</speech></sp>
  
-<sp><speaker> Drifter </speaker> --So where's she at now?</sp>
+<sp>
+    <speaker> Drifter </speaker> 
+  <speech>--So where's she at now?</speech>  
+</sp>
 
-<sp><speaker> Operator </speaker> I don't know.</sp>
+<sp><speaker> Operator </speaker> <speech>I don't know.</speech></sp>
  
+<sp><speaker> Drifter </speaker> <speech>Yeah. Still missing a few from the deck. Hunting that golden freak I figure... what's his name?</speech></sp>
  
+<sp><speaker> Operator </speaker> <speech>Ballas? Wait, so you don't know--</speech></sp>
  
- 
-<sp><speaker> Drifter </speaker> Yeah. Still missing a few from the deck. Hunting that golden freak I figure... what's his name?</sp>
- 
-<sp><speaker> Operator </speaker> Ballas? Wait, so you don't know--</sp>
- 
-<sp><speaker> Drifter </speaker> --Ballas, right. Pfft-huh, you ought to be more careful. I might not be around next time.</sp>
- 
- 
- 
+<sp><speaker> Drifter </speaker> <speech>--Ballas, right. Pfft-huh, you ought to be more careful. I might not be around next time.</speech></sp>
  
 <sp><speaker> Operator </speaker> <speech>Around? Okay, so what is this, then? Are you from the--</speech></sp>
  
@@ -1294,16 +1430,21 @@ For Narmer
  
 <info>Drifter - Choose - Operator</info>
 <info>Choosing Drifter</info>
-<sp><speaker> Operator </speaker> <speech>You saved her. Nursed her back to health. It has to be you.</speech></sp>
+<sp>
+    <speaker> Operator </speaker> 
+    <speech>You saved her. Nursed her back to health. It has to be you.</speech>
+</sp>
  
  
  
  
-<sp><speaker> Ordis </speaker> 
+<sp>
+    <speaker> Ordis </speaker> 
    <speech>Exodus protocols reversed. Orbiter frontal section reattached. Running diagnostics... corrosion minimal. Ah. All seals holding.</speech>
 </sp>
 
-<sp><speaker> Drifter </speaker> 
+<sp>
+    <speaker> Drifter </speaker> 
   <speech>Ordis...</speech></sp>
  
  
@@ -1523,27 +1664,28 @@ For Narmer
 </sp>
 <info>At top of tower</info>
 <sp>
-<speaker> Ordis </speaker> Murex powering for orbital launch! Ballas must be recalling it back to the fleet as well!
+<speaker> Ordis </speaker> <speech>Murex powering for orbital launch! Ballas must be recalling it back to the fleet as well!</speech>
 </sp>
 <info>After destroying the two reactive crystals</info>
 <sp>
-<speaker> Unum </speaker> Dreamer... let them defile, no more.
+<speaker> Unum </speaker> <speech>Dreamer... let them defile, no more.</speech>
 </sp>
   <sp>
-<speaker> Ordis </speaker> Operator? I may be detecting something unusual... should I focus scans?
+<speaker> Ordis </speaker> <speech>Operator? I may be detecting something unusual... should I focus scans?</speech>
   </sp>
 <info>Player</info>
 <sp>
-<speaker> Operator </speaker> Won't be necessary Ordis.
+<speaker> Operator </speaker> <speech>Won't be necessary Ordis.</speech>
 </sp>
  
  
 <sp>
-<speaker> Drifter </speaker> Don't. Might just piss it off more.
+<speaker> Drifter </speaker> <speech>Don't. Might just piss it off more.</speech>
 </sp>
 <info>On Murex</info>
 <sp>
-<speaker> Ordis </speaker> Murex trajectory increasing on vector heading zero by zero by zero. Right toward the main Narmer fleet passing Mercury. One against so many... there's no way she'll get through.
+<speaker> Ordis </speaker> 
+  <speech>Murex trajectory increasing on vector heading zero by zero by zero. Right toward the main Narmer fleet passing Mercury. One against so many... there's no way she'll get through.</speech>
 </sp>
  <sp>
 <speaker> Lotus </speaker> 
@@ -1578,60 +1720,61 @@ For Narmer
 <info>Approaching second locked door</info>
 <info>Player</info>
 <sp>
-<speaker> Operator </speaker> Please. You're not thinking straight. You need more time to heal...
+<speaker> Operator </speaker> <speech>Please. You're not thinking straight. You need more time to heal...</speech>
 </sp>
  <sp>
-<speaker> Drifter </speaker> Look. You're not yourself. Not yet. We can find the last Archon together...
+<speaker> Drifter </speaker> <speech>Look. You're not yourself. Not yet. We can find the last Archon together...</speech>
  </sp>
  <sp>
-<speaker> Lotus </speaker> There is no time, no mercy for Narmer. Praghasa must be stopped before Ballas can fulfill her original purpose. Praghasa cannot be allowed to feed.
+<speaker> Lotus </speaker> 
+ <speech>There is no time, no mercy for Narmer. Praghasa must be stopped before Ballas can fulfill her original purpose. Praghasa cannot be allowed to feed.</speech>
  </sp>
 <info>Encountering Lotus</info>
 <info>Player</info>
 <sp>
-<speaker> Operator </speaker> What do you mean? Feed on what?
+<speaker> Operator </speaker> <speech>What do you mean? Feed on what?</speech>
 </sp>
 <sp>
-<speaker> Drifter </speaker> What do you mean? Feed on what?
+<speaker> Drifter </speaker> <speech>What do you mean? Feed on what?</speech>
 </sp>
  
  
-<sp><speaker> Lotus </speaker> The Sun.</sp>
+<sp><speaker> Lotus </speaker> <speech>The Sun.</speech></sp>
  
 <info>In Space</info>
-<sp>Cephalon <speaker> Cy </speaker> Tenno. On your six.
+<sp>Cephalon <speaker> Cy </speaker> <speech>Tenno. On your six.</speech>
 </sp>
 <info>On Railjack</info>
 <sp>
-Cephalon <speaker> Cy </speaker> Well met, Tenno but no time for reminiscing. We are under attack. Target-rich environment. Get on those guns!
+Cephalon <speaker> Cy </speaker> <speech>Well met, Tenno but no time for reminiscing. We are under attack. Target-rich environment. Get on those guns!</speech>
 </sp>
 <info>Approaching Murex</info>
-Cephalon <speaker> Cy </speaker> Murex shields down. She still has fangs. Time for the big gun. Get on it.
+ <sp>
+     <speaker>Cephalon Cy </speaker> 
+    <speech>Murex shields down. She still has fangs. Time for the big gun. Get on it.</speech>
+ </sp>
  
 <info>Firing Forward Artillery</info>
-Cephalon <speaker> Cy </speaker> Great shot, kid. That was one in a million.[1]
+ <sp>
+     <speaker>Cephalon Cy </speaker> 
+     <speech>Great shot, kid. That was one in a million.[1]</speech>
+ </sp>
  
 <info>Approach Praghasa</info>
 <info>Railjack</info>
-Cephalon <speaker> Cy </speaker> Gravimetrics are chaotic. At current rate, this Railjack will burn on approach. <speaker> Weird </speaker> that thing appears to be eating the Sun.
+ <speaker>Cephalon Cy </speaker> Gravimetrics are chaotic. At current rate, this Railjack will burn on approach. <speaker> Weird </speaker> that thing appears to be eating the Sun.
  
 <info>Player</info>
 <speaker> Operator </speaker> We have got to stop it! What if... what if we approach the wrecked ships as cover?
- 
- 
- 
- 
+
 <speaker> Drifter </speaker> Shoulda stayed in Duviri... hmm... could we tuck into the shadows of the wrecked ships for approach?
  
+ <speaker>Cephalon Cy </speaker> <speaker> Priority </speaker> get close enough to execute slingshot maneuver. Time transitions with solar flare events for maximum cover.
  
- 
- 
-Cephalon <speaker> Cy </speaker> <speaker> Priority </speaker> get close enough to execute slingshot maneuver. Time transitions with solar flare events for maximum cover.
- 
-Cephalon <speaker> Cy </speaker> Engines locked.
+ <speaker>Cephalon Cy </speaker> Engines locked.
 <speaker> Ballas </speaker> My people. Long have you waited for the sign. I have delivered it! Look to the sky! It grows darker by the moment. That darkness gathers strength. Strength enough to open the Void and bear me onward to sacred Tau!
  
-Cephalon <speaker> Cy </speaker> Gravitational waves increasing. Helm will feel sloppy.
+ <speaker>Cephalon Cy </speaker> Gravitational waves increasing. Helm will feel sloppy.
  
 <speaker> Ballas </speaker> What will become of you, my people, my flock? You will join me there, of course... but by another path. The path of sacrifice. The path of oblivion. Cleansed of all doubt, for you will peer into the pitch of day and find the SUN is gone. Its heart rendered, beating in my hand... the cost of my passage!
  
@@ -1676,9 +1819,6 @@ Cephalon <speaker> Cy </speaker> Gravitational waves increasing. Helm will feel 
 <info>Player</info>
 <speaker> Operator </speaker> I know! Maybe if she was stronger we wouldn't have to!
  
- 
- 
- 
 <speaker> Drifter </speaker> Listen. I never finished rebuilding her. It might have made the difference.
  
 <info>Necramech at low health</info>
@@ -1687,205 +1827,175 @@ Cephalon <speaker> Cy </speaker> Gravitational waves increasing. Helm will feel 
 <speaker> Operator</speaker>
 <speech>My mech's damaged! Can we take down the Orphix field?</speech>
     </sp>
-<sp><speaker> Drifter </speaker> This mech won't last. I need to take out this Orphix thing.</sp>
+<sp><speaker> Drifter </speaker> 
+    <speech>This mech won't last. I need to take out this Orphix thing</speech>.</sp>
  
- 
- 
- 
-<sp><speaker> Erra </speaker> Arrrrrrgggg! The final Archon... it... will be waiting for you. Maybe its power will... make her whole again... give her enough strength to resist.</sp>
- 
-<info>Player</info>
-<sp><speaker> Operator </speaker> Understood.</sp>
- 
- 
- 
- 
-<sp><speaker> Drifter </speaker> Understood.</sp>
- 
- 
- 
+<sp><speaker> Erra </speaker> 
+    <speech>Arrrrrrgggg! The final Archon... it... will be waiting for you. Maybe its power will... make her whole again... give her enough strength to resist.</speech></sp>
  
 <info>Player</info>
-<sp><speaker> Operator </speaker> Thank you.</sp>
+<sp><speaker> Operator </speaker> 
+    <speech></speech>Understood.</sp>
  
+<sp><speaker> Drifter </speaker> <speech>Understood.</speech></sp>
  
+<info>Player</info>
+<sp><speaker> Operator </speaker> <speech>Thank you.</speech></sp>
  
- 
-<sp><speaker> Drifter </speaker> Thank you.</sp>
- 
- 
- 
+<sp><speaker> Drifter </speaker> <speech>Thank you.</speech></sp>
  
 <info>After defeating the Archon</info>
-<sp><speaker> Ballas </speaker> What a glorious reunion! You and mother-dearest both come to send me on my way. I am ready, Tenno... are you?</sp>
+<sp><speaker> Ballas </speaker> <speech>What a glorious reunion! You and mother-dearest both come to send me on my way. I am ready, Tenno... are you?</speech> </sp>
  
 <info>The Final Showdown</info>
 <info>Cutscene</info>
-<sp><speaker> Ballas </speaker> Kneel! Kneel, and I will spare these worlds. Beg, and I will make you complete again!</sp>
+<sp><speaker> Ballas </speaker> <speech>Kneel! Kneel, and I will spare these worlds. Beg, and I will make you complete again!</speech></sp>
  
-<sp><speaker> Lotus </speaker> I had something different in mind.</sp>
+<sp><speaker> Lotus </speaker> <speech>I had something different in mind.</speech></sp>
  
-<sp><speaker> Ballas </speaker> I loved you once... you were so like her.</sp>
+<sp><speaker> Ballas </speaker> <speech>I loved you once... you were so like her.</speech></sp>
  
-<sp><speaker> Lotus </speaker> You dreamed of a Margulis you could control. But she chose death over you.</sp>
+<sp><speaker> Lotus </speaker> <speech>You dreamed of a Margulis you could control. But she chose death over you.</speech></sp>
  
-<sp><speaker> Lotus </speaker> I... said... to... stay... out... of... this...</sp>
+<sp><speaker> Lotus </speaker> <speech>I... said... to... stay... out... of... this...</speech></sp>
  
-<sp><speaker> Ballas </speaker> But you can't, can you? Still desperate to save her from herself. You never truly knew her, did you? What she most needs?</sp>
+<sp><speaker> Ballas </speaker> <speech>But you can't, can you? Still desperate to save her from herself. You never truly knew her, did you? What she most needs?</speech> </sp>
  
 <info>Player</info>
     
-<sp><speaker> Operator </speaker> No!</sp>
+<sp><speaker> Operator </speaker> <speech>No!</speech></sp>
  
  
-<speaker> Drifter </speaker> No!
+<speaker> Drifter </speaker> <speech>No!</speech>
  
+<speaker> Ballas </speaker> <speech>Why do you make me do these things?</speech>
  
+<speaker> Ballas </speaker> <speech>Say 'I love you, my master.'</speech>
  
+<speaker> Lotus </speaker> <speech>I... love you. My master.</speech>
  
-<speaker> Ballas </speaker> Why do you make me do these things?
- 
-<speaker> Ballas </speaker> Say 'I love you, my master.'
- 
-<speaker> Lotus </speaker> I... love you. My master.
- 
-<speaker> Ballas </speaker> Now... kill your child. For me.
+<speaker> Ballas </speaker> <speech>Now... kill your child. For me.</speech>
  
 <info>During Battle</info>
 <info>When knocked out of Warframe</info>
 <speaker> Operator </speaker>
-[Grunt of pain, unsubtitled]
- 
- 
- 
+<infoMarked>[Grunt of pain, unsubtitled]</infoMarked>
  
 <speaker> Drifter </speaker>
-[Grunt of pain, unsubtitled]
- 
- 
- 
+<infoMarked>[Grunt of pain, unsubtitled]</infoMarked>
  
 <speaker> Operator </speaker>
-[Alternate grunt of pain/effort, unsubtitled]
- 
- 
- 
+<infoMarked>[Alternate grunt of pain/effort, unsubtitled]</infoMarked>
  
 <speaker> Drifter </speaker>
-[Alternate grunt of pain/effort, unsubtitled]
- 
- 
- 
+<infoMarked>[Alternate grunt of pain/effort, unsubtitled]</infoMarked>
  
 <speaker> Operator </speaker>
-[Third alternate grunt of effort, unsubtitled]
- 
- 
- 
+<infoMarked>[Third alternate grunt of effort, unsubtitled]</infoMarked>
  
 <speaker> Drifter </speaker>
-[Third alternate grunt of effort, unsubtitled]
- 
- 
- 
+<infoMarked>[Third alternate grunt of effort, unsubtitled]</infoMarked>
  
 <info>First mirror broken</info>
-<speaker> Ballas </speaker> There's a good girl. Repair the hurt you have dealt us. Have dealt me.
+<speaker> Ballas </speaker> <speech>There's a good girl. Repair the hurt you have dealt us. Have dealt me.</speech>
  
 <info>Player</info>
-<speaker> Operator </speaker> No. No!
+<speaker> Operator </speaker> <speech>No. No!</speech>
  
- 
- 
- 
-<speaker> Drifter </speaker> No! No, dammit, NO!
- 
- 
- 
+<speaker> Drifter </speaker> <speech>No! No, dammit, NO!</speech>
  
 <info>Second mirror broken</info>
-<speaker> Ballas </speaker> You HAD to have a 'child' - and with an open heart I gave you... this. And my reward? Being left to watch as all your love- MY. LOVE. - poured into the bottomless well of this... abominable child.
+<speaker> Ballas </speaker> 
+<speech>You HAD to have a 'child' - and with an open heart I gave you... this. And my reward? Being left to watch as all your love- MY. LOVE. - poured into the bottomless well of this... abominable child.</speech>
  
 <info>Third mirror broken</info>
 <info>Player</info>
-<speaker> Operator </speaker> Remember! Remember what he did to you!
+<speaker> Operator </speaker>
+    <speech>Remember! Remember what he did to you!</speech>
  
+<speaker> Drifter </speaker>
+   <speech>Remember! Remember what he did to you!</speech>
  
- 
- 
-<speaker> Drifter </speaker> Remember! Remember what he did to you!
- 
- 
- 
- 
-<speaker> Lotus </speaker> I remember... my old self... dissolving... beneath your fingers. Shaping me. Directing me. Lua.
+<speaker> Lotus </speaker>
+   <speech>I remember... my old self... dissolving... beneath your fingers. Shaping me. Directing me. Lua.</speech>
  
 <info>Fourth mirror broken</info>
-<speaker> Ballas </speaker> Yes, let's discuss 'what I did.' I who have endured your torture of me. Your lies. Your betrayals. Without. Complaint. All for you. And this is my reward.
+<speaker> Ballas </speaker>
+  <speech>Yes, let's discuss 'what I did.' I who have endured your torture of me. Your lies. Your betrayals. Without. Complaint. All for you. And this is my reward.</speech>
  
-<speaker> Lotus </speaker> You... you... You lie. You are small.
+<speaker> Lotus </speaker> 
+  <speech>You... you... You lie. You are small.</speech>
  
 <info>Fifth mirror broken</info>
 <speaker> Ballas </speaker> Pitiful. I am loved.
  
-<speaker> Lotus </speaker> You are a mask. With nothing behind it.
+<speaker> Lotus </speaker> <speech>You are a mask. With nothing behind it.</speech>
  
-<speaker> Ballas </speaker> Pitiful, broken thing. A puppet accusing her maker of... a lack of substance? Was it?
+<speaker> Ballas </speaker> <speech>Pitiful, broken thing. A puppet accusing her maker of... a lack of substance? Was it?</speech>
  
 <info>Sixth mirror broken</info>
-<speaker> Ballas </speaker> Very well - she can take your punishment for you.
+<speaker> Ballas </speaker> <speeech>Very well - she can take your punishment for you.</speeech>
  
 <info>Seventh mirror broken</info>
-<speaker> Lotus </speaker> Ballas! Stop! Spare them! Spare them... and I will be whatever you want.
+<speaker> Lotus </speaker> <speaker>Ballas! Stop! Spare them! Spare them... and I will be whatever you want.</speaker>
  
-<speaker> Ballas </speaker> Shut. Up. You are making me do this. And when this child is dead you and I will have words.
+<speaker> Ballas </speaker> <speech>Shut. Up. You are making me do this. And when this child is dead you and I will have words.</speech>
  
 <info>Eighth mirror broken</info>
-<speaker> Ballas </speaker> Her kind can't feel pain. All lies.
+<speaker> Ballas </speaker> <speech>Her kind can't feel pain. All lies.</speech>
  
 <info>3rd health bar depleted</info>
-<speaker> Ballas </speaker> You never understood me, my vision. My future lies with Tau. Not here. Not with you.
+<speaker> Ballas </speaker> 
+ <speech>You never understood me, my vision. My future lies with Tau. Not here. Not with you.</speech>
  
-<speaker> Lotus </speaker> Stop... stop...
+<speaker> Lotus </speaker> 
+    <speech>Stop... stop...</speech>
  
 <info>Ninth mirror broken</info>
-<speaker> Ballas </speaker> She has this coming. Do not interfere again.
+<speaker> Ballas </speaker> 
+   <speech>She has this coming. Do not interfere again.</speech>
  
 <info>2nd health bar depleted</info>
-<speaker> Ballas </speaker> I cast you from my sight. 'Lotus.'
+<speaker> Ballas </speaker> 
+   <speech>I cast you from my sight. 'Lotus.'</speech>
  
-<speaker> Lotus </speaker> I. Said. STOP!
+<speaker> Lotus </speaker> 
+    <speech>I. Said. STOP!</speech>
  
-<speaker> Ballas </speaker> (yells)
+<speaker> Ballas </speaker> 
+  <infoMarked>(yells)</infoMarked>
  
 <info>Tenth mirror broken</info>
-<speaker> Ballas </speaker> Very well I give you my death - and yours as well. The unstoppable annihilation of every. Single! Last! Thing! Pleased? Satisfied? Are you now full up with death?
+<speaker> Ballas </speaker>
+   <speech>Very well I give you my death - and yours as well. The unstoppable annihilation of every. Single! Last! Thing! Pleased? Satisfied? Are you now full up with death?</speech>
  
-<speaker> Ballas </speaker> My vision was only ever comprehensible to myself. My ambition beyond the grasp of... 'people'. Thus I have always been alone. Your death changes nothing.
+<speaker> Ballas </speaker>
+    <speech>My vision was only ever comprehensible to myself. My ambition beyond the grasp of... 'people'. Thus I have always been alone. Your death changes nothing.</speech>
  
-<speaker> Ballas </speaker> People warned me against you, you know. Early on, before the Jade Light. I should've listened.
+<speaker> Ballas </speaker> 
+  <speech>People warned me against you, you know. Early on, before the Jade Light. I should've listened.</speech>
  
-<speaker> Ballas </speaker> What are you? Tell me that. What barren, disgusting thing have I let into my house and my heart? Tell me!
+<speaker> Ballas </speaker> 
+  <speech>What are you? Tell me that. What barren, disgusting thing have I let into my house and my heart? Tell me!</speech>
  
-<speaker> Ballas </speaker> And so the monstrosity dies... beautifully.
+<speaker> Ballas </speaker> 
+   <speech>And so the monstrosity dies... beautifully.</speech>
  
-<speaker> Lotus </speaker> Child... run...
+<speaker> Lotus </speaker> 
+   <speech>Child... run...</speech>
  
-<speaker> Ballas </speaker> 'Run'? Where should they run to? You've only destroyed everything!
+<speaker> Ballas </speaker> 
+    <speech>'Run'? Where should they run to? You've only destroyed everything!</speech>
  
-<speaker> Ballas </speaker> Alone at last.
+<speaker> Ballas </speaker> 
+    <speech>Alone at last.</speech>
  
 <info>Player</info>
-<speaker> Operator </speaker> No.
- 
- 
- 
+<speaker> Operator </speaker> 
+   <speech>No.</speech>
  
 <speaker> Drifter </speaker> 
   <speech>No.</speech>
- 
- 
- 
  
 <speaker> Ballas </speaker> 
   <speech>Now kneel...</speech>
@@ -1907,15 +2017,9 @@ Cephalon <speaker> Cy </speaker> Gravitational waves increasing. Helm will feel 
  
 <speaker> The Man in the Wall </speaker> (laughs)
  
- 
- 
- 
 <info>Conclusion</info>
 <speaker> Operator </speaker> 
    <speech>How do you feel?</speech>
- 
- 
- 
  
 <speaker> Lotus </speaker> 
    <speech>I... I thought I was... Natah... Margulis... Lotus...</speech>
@@ -1943,13 +2047,16 @@ Cephalon <speaker> Cy </speaker> Gravitational waves increasing. Helm will feel 
 </sp>
 <info>I am...</info>
 <info>[Sun] Natah</info>
-<speaker> Natah </speaker> The times ahead will need decisiveness. Power. I shall be Natah.
+<speaker> Natah </speaker> 
+   <speech>The times ahead will need decisiveness. Power. I shall be Natah.</speech>
  
 <info>[Neutral] Lotus</info>
-<speaker> Lotus </speaker> I see violence and suffering in our future. We will need compassion and strength in equal measure... I am the Lotus.
+<speaker> Lotus </speaker> 
+   <speech>I see violence and suffering in our future. We will need compassion and strength in equal measure... I am the Lotus.</speech>
  
 <info>[Moon] Margulis</info>
-<speaker> Margulis </speaker> Narmer has divided the world, leaving a deep wound. We need healing. I am Margulis.
+<speaker> Margulis </speaker> 
+  <speech>Narmer has divided the world, leaving a deep wound. We need healing. I am Margulis.</speech>
  
 <message>"<messageBody>An Ending, A Beginning My child... my friend. What was done, is done. Ballas is no more. We have both woken from that nightmare at last.
 New dangers, new choices await us now. Few will be simple. Each moment unfolds into a thousand-petalled bloom of possibilities.
@@ -1969,5 +2076,8 @@ Now the Tenno face new questions... the paradox of the Drifter's origins and the
 <speech>Ah! The first face I saw waking from that horrible dream! She gives, we live. Never more true than now, eh, surah? We live. In spite of Narmer. And still the tower of Unum stands. The Quills are even saying she spoke to you. Ah! Much to do, much to do. Come.</speech>
 </sp>
 <info>Talking to Eudico after completing the quest</info>
-<speaker> Eudico </speaker> Sparky. Did I... did they... did I do anything I'd be... ashamed of? There was only... that voice... and I was gone. The messed up part is...? I liked it. I never had to worry... or think... ever again. And I liked it. With Ballas dead you'd think Narmer would be dusted. They're not. Some took the mask willingly and don't want to let it go. Now someone else is pulling the strings. Narmer's here. They're not going away.
+  <sp>
+  <speaker> Eudico </speaker> 
+ <speech>Sparky. Did I... did they... did I do anything I'd be... ashamed of? There was only... that voice... and I was gone. The messed up part is...? I liked it. I never had to worry... or think... ever again. And I liked it. With Ballas dead you'd think Narmer would be dusted. They're not. Some took the mask willingly and don't want to let it go. Now someone else is pulling the strings. Narmer's here. They're not going away.</speech>
+  </sp>
 </xml>
